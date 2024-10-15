@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://20b45bc6-53dc-41a5-820f-69d76853d96a@172.67.132.209:2095?security=none&type=ws&host=www.speedtest.net.Jaricopen.Shop.&path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.209:2095
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.207:80?security=none&type=ws&host=en.mfa.gov.ir&path=%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3FED#🔒 VL-WS-NONE 🇺🇸 US-199.232.5.207:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?security=tls&sni=PpAl03.DrIYAh-KyNDLE.WORkERS.Dev&type=ws&host=ppaL03.drIyAH-KyNdLe.WoRkERs.DEv&path=%2FTW6sl2X9Kqa2fKSM%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.3:443
 vless://096a888e-c3ba-467c-b9c6-bf6b1bd1e56c@173.245.59.101:2086?security=none&type=httpupgrade&host=anten.mci.it.www.speedtest.net.zula.ir.Nanowash-shop.ir.&path=%2Fresult%3Fed%3D2086#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.101:2086
@@ -602,4 +603,3 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:443?security=tls&sni
 vless://1ed5d8dd-2cec-40e1-abc9-8fb02662661a@193.151.133.104:8055?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-193.151.133.104:8055
 vless://857e58b8-cf09-459c-8539-444b1a40f074@104.26.15.16:8443?security=tls&sni=APkdOwNLoad.MiRAclehEArTbit.iCu.&type=httpupgrade&host=APkdOwNLoad.MiRAclehEArTbit.iCu.&path=%2Fjoin%40V2RayyNGvpn%3Fed%3D32&fp=chrome&alpn=h2,http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.26.15.16:8443
 vless://45d6db68-8895-468a-80f7-de24553e5b2f@45.133.247.51:443?security=tls&sni=adsl.felafel.org&type=grpc&serviceName=@ConfigTell#🔒 VL-GRPC-TLS 🇸🇨 SC-45.133.247.51:443
-vless://bb8b62e2-23bd-4b27-d72b-024769b24be3@156.238.18.127:443?security=tls&sni=onlineshop.tesco-pardis.com&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-156.238.18.127:443
