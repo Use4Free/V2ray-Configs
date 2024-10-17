@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.167:443?security=tls&sni=ao.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.167:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@154.92.9.28:2096?security=tls&sni=hz.ylks.xyz&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-TLS 🇯🇵 JP-154.92.9.28:2096
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.70:2053?security=tls&sni=SB-1U6.PAgEs.dev&type=ws&path=%2FfLtcXoO6GRqVAT6V%2FMTU4LjEwMS4yMDMuMTI3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.70:2053
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:443?security=tls&sni=mAHDISeRvEr-2tV.Pages.deV&type=ws&host=mahDISerVEr-2tV.PAGes.dEV&path=%2Fi2vK3KQ8u8jtRjiW%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.254:443
@@ -603,3 +602,4 @@ vless://b22192ac-0f3a-5108-b0de-7b4e78766f3c@104.21.72.234:2083?security=tls&sni
 vless://198d91bf-b239-4588-ac19-70b398003e0c@104.21.27.135:2053?security=tls&sni=selincchanelselinc.jdyece.workers.dev&type=ws&host=selincchanelselinc.jdyece.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.27.135:2053
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.67:2083?security=tls&sni=SB-1U6.PAgeS.dEv&type=ws&path=%2FUreNFtuu3Z1kqrYB%2FMTU4LjEwMS4yMDMuMTI3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.67:2083
 vless://bb8b62e2-23bd-4b27-d72b-024769b24be3@193.9.49.185:443?security=tls&sni=onlineshop.tesco-pardis.com&type=grpc#🔒 VL-GRPC-TLS 🇷🇺 RU-193.9.49.185:443
+vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.25.10.4:443?security=tls&sni=azadNET-SEMej.PAgeS.dev&type=ws&host=azADnEt-sEMEj.pages.dEv&path=%2F00iQR2zTWW42hz0C%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.10.4:443
