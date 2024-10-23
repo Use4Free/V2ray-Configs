@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:6697
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.97:5000#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:5000
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9102#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:9102
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.152:2375#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.152:2375
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5004#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:5004
@@ -603,3 +601,5 @@ trojan://auto@162.159.128.233:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:800#%E6%9C%AA%E7%9F%A5102
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:5600#US64%201.9MB%2Fs
 trojan://0e81a9cd-d849-4101-8d64-574c283207de@104.21.69.44:2083?security=tls&type=ws&sni=de1.trojanvpn.de&path=/websocket&host=de1.trojanvpn.de#%E6%9C%AA%E7%9F%A5103
+trojan://tg-dns68@162.159.152.149:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A5104
+trojan://951bbbc9-c5fd-441e-ac3d-c7fcfbf4a751@173.245.59.100:443?security=tls&type=ws&sni=se1.trojanvpn.de&path=/websocket&host=se1.trojanvpn.de#%E6%9C%AA%E7%9F%A5105
