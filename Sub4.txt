@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.211.28:443?security=tls&sni=ax.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.211.28:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.83.62:2053?security=tls&sni=Bpb-V.Pages.DeV&type=ws&host=BPb-V.PaGES.Dev&path=%2FF8dDMkIYiAKaAbOR%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.83.62:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.64:443?security=tls&sni=ld.ylks.us.kg&type=ws&host=ld.ylks.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.64:443
 vless://742ec75a-6632-40b8-a49d-c9245b3a56f9@104.26.14.148:443?security=tls&sni=47441234942388412428717014952546.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&type=ws&host=47441234942388412428717014952546.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.148:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.202:2053?security=tls&sni=BPb-V.Pages.DEv&type=ws&host=Bpb-v.pAgeS.DEV&path=%2F8EZOONoHtne638Vw%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.38.202:2053
@@ -603,3 +601,5 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.99.110:443?security=tls&sni
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.195.54:443?security=tls&sni=aa.ylks.xyz&type=ws&host=aa.ylks.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.195.54:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.84.179.114:443?security=tls&sni=da.ylks.xyz&type=ws&host=da.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🇲🇽 MX-140.84.179.114:443
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.135:443?security=tls&sni=bpB005.paGeS.DEv&type=ws&path=%2F1bd7yey9071nu9bu%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.135:443
+vless://bacf59bb-901a-4050-b239-f392e6f00310@104.20.22.46:443?security=tls&sni=hiddifyreplace1.freeairlaines.com&type=ws&host=hiddifyreplace1.freeairlaines.com&path=%2Fbacf59bb-901a-4050-b239-f392e6f00310&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.22.46:443
+vless://c1fcd7eb-7d28-419c-a62f-fe3437fd884b@172.64.100.193:8443?security=tls&sni=pardazeshvpn-tg36.pages.dev&type=ws&host=pardazeshvpn-tg36.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.100.193:8443
