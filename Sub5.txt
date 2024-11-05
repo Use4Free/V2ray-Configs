@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@172.67.139.111:443?security=tls&sni=Pages.dev&type=ws&host=1v-2wk.pages.dev&path=%2FTelegram-%58v2ry2-7%3Fed%3D512#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:2083?security=tls&sni=ArGodev11222.PaGes.Dev&type=ws&host=argodev11222.pages.dev&path=%2F%3Fed%3D2560%2Fvless%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.147.22:2083
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@107.174.39.112:443?security=tls&sni=bpB005.paGeS.DEv&type=ws&path=%2F1bd7yey9071nu9bu%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-107.174.39.112:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@89.168.112.118:443?security=tls&sni=lv.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇩🇪 DE-89.168.112.118:443
@@ -603,3 +602,4 @@ vless://fca01448-d84a-436e-9aec-3be1ebdfb350@205.233.181.205:2087?security=tls&s
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.146.221.78:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-129.146.221.78:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.168:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM45&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.8.168:443
 vless://19b3cbba-e6ac-485a-9481-926a0415eab2@172.67.189.174:80?security=none&type=ws&host=sHrill-tErm-639b.TageLIT414.workeRs.dEv&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.189.174:80
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.21.160:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.21.160:443
