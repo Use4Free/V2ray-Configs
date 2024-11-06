@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://bacf59bb-901a-4050-b239-f392e6f00310@104.18.185.80:443?security=tls&sni=hiddifyreplace1.freeairlaines.com&type=ws&host=hiddifyreplace1.freeairlaines.com&path=/bacf59bb-901a-4050-b239-f392e6f00310&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.185.80:443
-vless://7b812fc6-3ce6-4af4-9140-2ec4f0bc7b2e@104.21.54.192:8080?security=none&type=ws&host=lc71.lebasnoo.ir.&path=%2Fservernett#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.54.192:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.205.142:443?security=tls&sni=lg.ylks01.eu.org&type=ws&host=lg.ylks01.eu.org&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.205.142:443
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.250:2052?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.214.250:2052
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.173:443?security=tls&sni=bpB005.paGeS.DEv&type=ws&path=%2F1bd7yey9071nu9bu%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.173:443
@@ -603,3 +601,5 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.7.185:443?security=tls&sni=P
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.21.21.129:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.21.129:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.57:443?security=tls&sni=lw.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.57:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.99:443?security=tls&sni=dd.ylks.xyz&type=ws&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.99:443
+vless://6babb657-1524-43bb-b421-11bda27bc9de@162.159.15.151:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.15.151:2087
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.67:2053?security=tls&sni=SB-1U6.PAgEs.dev&type=ws&host=SB-1U6.PAgEs.dev&path=%2Ffltcxoo6grqvat6v%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.67:2053
