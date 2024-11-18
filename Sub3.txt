@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.235.239:2053?security=tls&sni=MAhdiseRVer-f4v.paGEs.dEv&type=ws&host=MaHDisErvER-f4v.pAgES.DeV&path=%2FKFhgqe0tA6FG1ey1%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.235.239:2053
+vless://90fdaaaf-44fb-443a-a666-c5a6fadafddc@151.101.2.133:443?security=tls&sni=adroll.com&type=ws&host=w.ir&path=%2F%3Fed%3D8880&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.133:443
 vless://51d1b1c3-0e02-4d18-8eb9-c38009b50b22@36.225.48.142:30002?security=none&flow=xtls-rprx-vision&type=tcp#🔒 VL-TCP-NONE 🇹🇼 TW-36.225.48.142:30002
 vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@151.101.130.216:80?security=none&type=ws&host=befreewithus.com&path=ws%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.216:80
 vless://9cbdc595-1d8d-4443-af07-99149153d025@104.19.222.79:443?security=tls&sni=6c965bb60baf43a6bb93.jana-drama.rest&type=ws&host=6c965bb60baf43a6bb93.jana-drama.rest&path=%2Fabcdews&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.222.79:443
@@ -601,5 +603,3 @@ vless://ff6f4e1a-75ac-478b-cd4c-03cf05572b90@172.67.132.209:8880?security=none&t
 vless://c3d302cb-3eed-4bfb-a7e3-c84bda6847a8@104.21.49.71:8080?security=none&type=httpupgrade&host=Upgrade.SpeedGood.Com.Google.Com.BestSpeed.Netherlands.ImageFlowai.IR.&path=%2F%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.49.71:8080
 vless://690f16d0-6425-462b-86e0-a70a8169c5d9@172.66.44.211:443?security=tls&sni=pardazeshvpn-tg97.pages.dev&type=ws&host=pardazeshvpn-tg97.pages.dev&path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.211:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.49.235:443?security=tls&sni=ay.ylks.xyz&type=ws&host=ay.ylks.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.49.235:443
-vless://83082070-6b71-4e48-937a-3e4bf304fe68@199.232.7.181:443?security=tls&sni=ELeNa-JOinBede-ELiV2rAY.ir&type=ws&host=ELeNa-JoinBede-ELiV2ray.ir&fp=qq&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.7.181:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.98.10:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&host=lw.kpcloud.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.10:443
