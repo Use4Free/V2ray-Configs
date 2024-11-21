@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.166.88.198:5003#%E6%9C%AA%E7%9F%A594%201.6MB%2Fs
-trojan://telegram-id-privatevpns@18.134.24.125:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A595%2017.5MB%2Fs
-trojan://blue2024@172.64.35.188:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A596
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%E6%9C%AA%E7%9F%A597%207.8MB%2Fs
-trojan://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.44.87:443?security=tls&type=ws&sni=pardazeshvpn-tg7.pages.dev&host=pardazeshvpn-tg7.pages.dev#%E6%9C%AA%E7%9F%A598
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7002#US26%201.9MB%2Fs
-trojan://auto@104.20.19.172:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A599
-trojan://NISHIKUITAN222@104.24.247.219:443?#%E6%9C%AA%E7%9F%A5100
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPNW96eEw3Mm14YlY4bVpLSUExZE1B@174.138.17.254:52252#%E6%9C%AA%E7%9F%A5101
 trojan://auto@104.20.19.48:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A5102
 ss://YWVzLTI1Ni1nY206YjEyMzYwZjQtMzNiYS00YzliLWFlMGMtM2RhNWY4YzZlZDA1@45.142.246.232:19994#%E6%9C%AA%E7%9F%A5103
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=/6b777a91&host=jobscareerfortoday.com#%E6%9C%AA%E7%9F%A5104
