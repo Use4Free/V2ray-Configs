@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.20.12:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.20.12:443
 vless://cafd4fd8-3346-4665-9750-81542bf8f143@79.127.70.86:443?security=none&type=tcp&host=fast.com+----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN----join.JOKERRVPN&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.70.86:443
 vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@162.159.192.149:443?security=tls&sni=Noshteri.hooplnqpb.ir&type=ws&host=Noshteri.hooplnqpb.ir&path=%2FTelegram-------%40PROXY_MTM-_-_-_-Telegram-------%40PROXY_MTM-%40PROXY_MTM-%40PROXY_MTM-PROXY_MTM%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.149:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@181.214.1.242:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇦🇪 AE-181.214.1.242:2053
@@ -602,4 +603,3 @@ vless://9ceffc88-0d8e-4734-8c0f-db6ad21f7e59@151.101.194.219:443?security=tls&sn
 vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@104.21.20.148:2095?security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.148:2095
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.98.96:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.96:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.150:443?security=tls&sni=MabdI.PAGeS.DEv&type=ws&host=MABdi.pagEs.Dev&path=%2F9GqWAHqtHAZpMxkq%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.150:443
-vless://9927f18c-9483-4980-8a04-dcd95373dc72@104.16.219.230:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.219.230:443
