@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://8f5da459-372e-40c5-a7a7-f85f2f168be6@172.64.155.187:2052?type=ws&host=22tg.tia71p6j.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.155.187:2052
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@219.77.65.212:23555?security=tls&sni=juzi8186.5112233.xyz&type=ws&host=juzi8186.5112233.xyz&path=%2F%3Fed%3D2560fp%3Drandom#🔒 VL-WS-TLS 🇭🇰 HK-219.77.65.212:23555
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@173.245.49.241:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.49.241:443
 vless://ff48d680-490f-42f2-8c07-6bf738862bcc@104.18.20.135:2053?security=tls&sni=Pages.dev&type=ws&host=342647820-000291.pages.dev&path=%2FBSFGAkbXJJBj3p83%2FMTg4LjI0NS4xNDQuMTc4%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.20.135:2053
@@ -602,4 +603,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.30:443?security=tls&sni=l
 vless://0789a06d-a61a-470d-b182-33926b1aa21f@172.66.44.135:443?security=tls&sni=SHAH-5R1.paGes.deV&type=ws&host=shAh-5r1.PAgEs.DEV&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.135:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.112:443?security=tls&sni=behdasht.hrtc.ir&type=ws&host=behdasht.hrtc.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.5.112:443
 vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@104.21.20.148:2095?security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.148:2095
-vless://833410a8-4dcf-4f2b-8e5b-a2cb6179b8ef@92.223.84.84:80?security=none&type=ws&host=ipcfusa.dev&path=%2F%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF%2Fwild%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇫🇷 FR-92.223.84.84:80
