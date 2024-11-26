@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://3dc35595-0a69-4da7-8a82-881709b9db7c@198.41.202.5:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.202.5:443
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?security=tls&sni=edge.020770.xyz&type=ws&host=edge.020770.xyz&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.56.140:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.177.8.26:130?security=tls&sni=juzi8186.5112233.xyz&type=ws&host=juzi8186.5112233.xyz&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇦🇹 AT-94.177.8.26:130
 vless://500fa635-f420-4148-ae10-5b857163d045@213.165.84.57:443?security=tls&sni=vl.kouok.us.kg&type=ws&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🇬🇧 GB-213.165.84.57:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.99.209:443?security=tls&sni=BpbpanEL.Ac.CN.EU.oRg&type=ws&host=BpbpanEL.Ac.CN.EU.oRg&path=%2Fp3stxwx49t13atgt%2Fchjvehlpcc5hbgl5dw4uznh4ay5kzwr5bi5pbw%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.209:443
@@ -601,5 +603,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@159.69.189.130:8080?security=tls&sn
 vless://71eb551d-0cda-4436-95d0-32703eae5aec@172.67.161.204:443?security=tls&sni=ppAl03.MR-eDWaRd-scHuLtz.WORkers.DeV&type=ws&host=Ppal03.mR-EDWArd-scHuLtz.wORkeRS.dEv&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.204:443
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.218.122:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-45.159.218.122:80
 vless://a62d328a-c25a-440e-a69e-edc4418199d8@104.20.195.223:8443?security=tls&sni=mn.aftabe12.ir&type=ws&host=mn.aftabe12.ir&path=/&fp=chrome&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.195.223:8443
-vless://b13b2b1a-2162-40e6-bbe8-590a9af9f223@173.245.58.100:80?security=none&type=httpupgrade&host=ger1.nanowaash-shop.ir&path=%2Fdhcfh%2F%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.58.100:80
-vless://8cc92a81-04c1-487d-8b5c-95014b13dde7@104.21.211.74:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.211.74:443

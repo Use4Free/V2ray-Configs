@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.129:443?security=tls&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.129:443
+vless://dcc2d994-050b-4248-ba3a-980f08244972@190.93.247.56:2095?security=none&type=httpupgrade&host=cdnde.hpcdn.infO.&path=%2F%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-190.93.247.56:2095
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.96.12:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.12:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.96.50:443?security=tls&sni=lu.ylks01.eu.org&type=ws&host=lu.ylks01.eu.org&path=%2Ffreecodes#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.50:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?security=tls&sni=ppAL03.DeGiv57731.workERs.deV&type=ws&host=PPaL03.deGIv57731.wORKErs.Dev&path=%2FYrpvbl3kngHiWXUG%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.2:443
@@ -601,5 +603,3 @@ vless://9927f18c-9483-4980-8a04-dcd95373dc72@104.19.20.140:443?security=tls&sni=
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@172.67.69.236:2053?security=tls&sni=vip1-romax-tiktok.hsjsak.ir&type=ws&host=vip1-romax-tiktok.hsjsak.ir&path=vless-ws%2F%3Fed&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.236:2053
 vless://a56d8500-9c87-4927-a920-2afa4214b9c8@162.159.0.80:2052?security=none&type=ws&host=sub-89ytdd0zy-rubika.ir.google.com.xncr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xnqeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xncr8haaaaaaaaaaaaaaaaa.xng28h.DiGiMeTo.Ir.&path=%2F%3F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%2F%3Fed%3D2056#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.0.80:2052
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.96.37:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.37:2053
-vless://3dc35595-0a69-4da7-8a82-881709b9db7c@198.41.202.5:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.202.5:443
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?security=tls&sni=edge.020770.xyz&type=ws&host=edge.020770.xyz&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.56.140:443
