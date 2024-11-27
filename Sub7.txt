@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://azadnet-trojan@104.21.36.165:443?security=tls&sni=XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV&type=ws&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=%2FtrbRb6rQQHUXO1sk03%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.36.165:443
+trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@154.197.26.52:4438?security=tls&sni=hk3.vpn.ong&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇨 SC-154.197.26.52:4438
+trojan://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?security=tls&sni=pardazeshvpn-tg48.pages.dev&type=ws&host=pardazeshvpn-tg48.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.190.131:8443
+trojan://bpb-trojan@188.114.98.23:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.98.23:443
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.85.39:443?security=tls&sni=customer-95-164-85-39.stark-industries.solutions&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇩🇰 DK-95.164.85.39:443
+trojan://telegram-id-privatevpns@52.56.93.213:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-52.56.93.213:22222
+trojan://bpb-trojan@104.20.75.209:443?sni=adagio.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.75.209:443
 trojan://0fdc0235-0055-4203-a66f-f29e7e663d10@104.21.83.62:2096?security=tls&sni=tnetplus3.pages.dev&type=ws&host=tnetplus3.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.83.62:2096
 trojan://join-bede-daily-configs@172.64.146.66:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.146.66:8443
 trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@132.145.87.107:21005?security=tls&sni=ent1.imyourdaddy.top&allowInsecure=1#🔒 TR-TCP-TLS 🇰🇷 KR-132.145.87.107:21005
@@ -596,10 +603,3 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.113:6679#🔒 SS-TCP-NA 🇺
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8882
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@45.89.52.66:9011#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9011
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.84:8090#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.84:8090
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.89.254.222:443#🔒 SS-TCP-NA 🇺🇸 US-35.89.254.222:443
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.128.215.67:443#🔒 SS-TCP-NA 🇸🇬 SG-47.128.215.67:443
-ss://MdVpnSec@172.67.138.69:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.138.69:80
-ss://SVNTEAM2@151.101.192.155:80#🔒 SS-TCP-NA 🇺🇸 US-151.101.192.155:80
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.89:6379#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:6379
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpodjZJUEUzV1dXRWlBczhSR2Fad1F1@5.180.45.142:18429#🔒 SS-TCP-NA 🇨🇾 CY-5.180.45.142:18429
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#🔒 SS-TCP-NA 🇺🇸 US-38.107.226.146:1230
