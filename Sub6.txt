@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ccad11eb-8272-4b1c-98c9-47469fa2e968@104.18.165.203:80?security=none&type=httpupgrade&host=joinmain.mralpha-vpn.com&path=/TELEGRAM-@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.165.203:80
 vless://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=justFreedomByIMAN.com&path=%2Fws%40%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.130.219:443
 vless://4e60aba1-5ea1-4b70-a4ad-705ee0a0e598@104.18.37.146:8443?security=tls&sni=BiA-DAILY-coNfIGs.pAgES.DEV&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D1048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.37.146:8443
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.247.52:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.52:2053
@@ -602,4 +603,3 @@ vless://b13b2b1a-2162-40e6-bbe8-590a9af9f223@173.245.58.100:80?security=none&typ
 vless://263497fb-9ae2-4f7b-94c6-b0179e480448@104.21.56.58:443?security=tls&sni=moON-azADnEt.paGEs.DeV&type=ws&host=moon-azadnet.pages.dev&path=%2FBPOqQst9lkEDkJfY%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.56.58:443
 vless://894e0e6e-d415-47fd-84f5-418896d7a310@172.67.197.205:443?security=tls&sni=freedom2.sepale8166.workers.dev&type=ws&host=freedom2.sepale8166.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.197.205:443
 vless://62a49d41-e231-4a6b-af26-cec86ef64001@172.67.205.138:443?security=tls&sni=1403.stopt7307.workers.dev&type=ws&host=1403.stopt7307.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.205.138:443
-vless://8cc92a81-04c1-487d-8b5c-95014b13dde7@104.25.225.41:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.225.41:443
