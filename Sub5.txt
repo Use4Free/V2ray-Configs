@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://VPNCUSTOMIZE@104.17.234.12:443?security=tls&sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&type=ws&host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.234.12:443
+trojan://NISHIKUITAN111@192.65.217.110:443?allowInsecure=1#🔒 TR-TCP-NA 🇦🇺 AU-192.65.217.110:443
+trojan://NISHIKUITAN111@213.109.205.159:443?allowInsecure=1#🔒 TR-TCP-NA 🇨🇾 CY-213.109.205.159:443
+trojan://WOeXShhJpL@172.67.34.71:443?security=tls&sni=10jzus.zdzdzd.xyz&type=ws&host=10jzus.zdzdzd.xyz&path=/juzigongyi#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.34.71:443
+trojan://blue2024@104.18.211.40:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.211.40:443
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.6:443
+trojan://blue2024@104.17.169.219:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.169.219:443
+trojan://telegram-id-privatevpns@13.61.120.41:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.61.120.41:22222
+trojan://telegram-id-directvpn@13.58.168.146:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-13.58.168.146:22222
 trojan://auto@104.20.17.255:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.17.255:443
 trojan://UipJV58NIw@104.16.11.112:443?security=tls&sni=t2.rtx.al&type=ws&host=t2.rtx.al&path=/cfisthebest#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.11.112:443
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.19.171.4:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.4:443
@@ -594,12 +603,3 @@ trojan://auto@104.21.72.108:443?security=tls&type=ws&sni=esetsecuritylicense1.cx
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#%E6%9C%AA%E7%9F%A539%2079.9KB%2Fs
 trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@104.18.32.69:443?security=tls&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev&host=poORiaReD--PErsePOlIs.PagES.DEv#%E6%9C%AA%E7%9F%A540
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD2%201.8MB%2Fs
-trojan://WOeXShhJpL@104.21.19.243:443?security=tls&type=ws&sni=06jzus.zdzdzd.xyz&path=/juzigongyi&host=06jzus.zdzdzd.xyz#%E6%9C%AA%E7%9F%A541
-trojan://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&type=ws&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=xn----pmcnaac0dkn0rb71nda.pages.dev#%E6%9C%AA%E7%9F%A542
-trojan://NISHIKUITAN111@46.254.92.112:443?#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-trojan://dns68@162.159.152.2:443?security=tls&type=ws&sni=trojan.putata.us.kg&host=trojan.putata.us.kg#%E6%9C%AA%E7%9F%A543
-trojan://0fdc0235-0055-4203-a66f-f29e7e663d10@104.21.83.62:2096?security=tls&type=ws&sni=tnetplus3.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2048&host=tnetplus3.pages.dev#%E6%9C%AA%E7%9F%A544
-trojan://blue2024@104.16.178.249:443?sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A545
-trojan://NISHIKUITAN111@185.148.106.44:443?#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD3%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.113:8882#US16%20851.6KB%2Fs

@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://WOeXShhJpL@104.21.19.243:443?security=tls&type=ws&sni=06jzus.zdzdzd.xyz&path=/juzigongyi&host=06jzus.zdzdzd.xyz#%E6%9C%AA%E7%9F%A541
+trojan://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&type=ws&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=xn----pmcnaac0dkn0rb71nda.pages.dev#%E6%9C%AA%E7%9F%A542
+trojan://NISHIKUITAN111@46.254.92.112:443?#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
+trojan://dns68@162.159.152.2:443?security=tls&type=ws&sni=trojan.putata.us.kg&host=trojan.putata.us.kg#%E6%9C%AA%E7%9F%A543
+trojan://0fdc0235-0055-4203-a66f-f29e7e663d10@104.21.83.62:2096?security=tls&type=ws&sni=tnetplus3.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2048&host=tnetplus3.pages.dev#%E6%9C%AA%E7%9F%A544
+trojan://blue2024@104.16.178.249:443?sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A545
+trojan://NISHIKUITAN111@185.148.106.44:443?#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD3%201.9MB%2Fs
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.113:8882#US16%20851.6KB%2Fs
 trojan://dns68@66.179.48.88:443?security=tls&type=ws&sni=trojan.putata.us.kg&path=/?ed=2560&host=trojan.putata.us.kg#%E6%9C%AA%E7%9F%A546
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#%E6%9C%AA%E7%9F%A547%202.0MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#%E6%9C%AA%E7%9F%A548%20348.9KB%2Fs
