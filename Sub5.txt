@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://520061ab-e8e3-4325-9272-8e3583094964@104.18.23.19:8080?security=none&type=ws&host=Operatormci.xn--nevergiveupyeoqkfsggy.bookmarkingonline.info.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.23.19:8080
-vless://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.47.147:443?security=tls&sni=meti-u9d.pages.dev&type=ws&host=meti-u9d.pages.dev&path=/Telegram@V2ray_Alpha/?ed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.147:443
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.43:80?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed#🔒 VL-WS-NONE 🇸🇬 SG-206.238.236.43:80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.210.21.98:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-3.210.21.98:22222
 vless://33e40275-fcaf-4d97-a4e6-095fb97c0968@104.24.196.20:80?security=none&type=ws&host=3www.speedtest.net.ftp.debian.org.www.digikala.com.studybooks.ir&path=%2FnekoOo%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.196.20:80
@@ -603,3 +601,5 @@ vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@66.235.200.146:2096?security=tls&sn
 vless://ed95209c-45f3-47d4-cf0c-9ee668a71e5c@188.245.225.246:4444?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-188.245.225.246:4444
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.61.180:443?security=tls&sni=pPal03.lAKEn-aBHiraAM.WoRKERs.DeV&type=ws&host=PPal03.LAkEN-AbhIraAm.WOrkErS.deV&path=%2FZ2xcIKzLEcHApagm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.61.180:443
 vless://db1abaeb-620f-5118-a715-da85df646e46@104.25.189.134:2083?security=tls&sni=proxy.legendtom13.WOrKErs.DEv&type=ws&host=proxy.legendtom13.WOrKErs.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.189.134:2083
+vless://35caec98-86de-4f38-a011-eb7e134446c7@104.21.92.185:443?security=tls&sni=ANasERviCezIlorX.IxPub.WORkErs.Dev&type=ws&host=anAseRvicEzIlOrx.IXPuB.wOrKers.dev&path=%2FX2nrNV7R1e_TTqGK%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.92.185:443
+vless://9e5c214e-746a-44d5-a9d0-0b0a8d37a957@104.18.13.130:443?security=tls&sni=vpn442vpn442442.hianif.workers.dev&type=ws&host=vpn442vpn442442.hianif.workers.dev&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.13.130:443
