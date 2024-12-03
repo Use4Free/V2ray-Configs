@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@95.164.249.61:54075#🔒 SS-TCP-NA 🇺🇦 UA-95.164.249.61:54075
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#🔒 SS-TCP-NA 🇬🇷 GR-192.71.166.102:989
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTWdJaHF3cDRwak04U0t3aXhOa1la@193.124.22.253:33068#🔒 SS-TCP-NA 🇱🇻 LV-193.124.22.253:33068
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@192.3.81.194:16899#🔒 SS-TCP-NA 🇺🇸 US-192.3.81.194:16899
