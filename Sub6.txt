@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://Julius@104.219.41.229:443?security=tls&sni=miami.juliusnet.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-104.219.41.229:443
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?security=tls&sni=bPB-V.pageS.dEV&type=ws&host=Bpb-v.PAges.deV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 TR-WS-TLS 🇨🇦 CA-23.227.38.208:2053
+trojan://blue2024@104.16.144.251:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.144.251:443
+trojan://bpb-trojan@198.41.222.155:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=/tr?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.222.155:443
+trojan://auto@172.67.223.178:443?security=tls&sni=abbas.ab841vpn.workers.dev&type=ws&host=abbas.ab841vpn.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.223.178:443
 trojan://dns68@104.21.92.73:443?sni=trojan.putata.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.92.73:443
 trojan://bpb-trojan@198.41.202.175:443?sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=/tr#🔒 TR-WS-NA 🏴‍☠️ NA-198.41.202.175:443
 trojan://NISHIKUITAN111@104.16.194.126:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.194.126:443
@@ -598,8 +603,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5000#🔒 SS-TCP-NA 🇺�
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.203:8009#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.203:8009
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7001#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:7001
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7002#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.112:7002
-ss://MdVpnSec@104.21.94.168:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.94.168:80
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#🔒 SS-TCP-NA 🇳🇱 NL-149.34.244.82:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMFhxWjRPaXcyeFpqUG1WeHp5ZzZQZ0w4dlNhako0M0JiMXVrSk5uVVQwa0FrRk9ycXZXUHhObDJ4TFNFMG13@5.182.38.211:42658#🔒 SS-TCP-NA 🇭🇺 HU-5.182.38.211:42658
-ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9037
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.150:443
