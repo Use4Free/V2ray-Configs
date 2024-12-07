@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.57.90:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.57.90:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.7.41:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.41:443
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?security=tls&sni=2-gd65fd.hc2021.cfd&type=ws&host=2-gd65fd.hc2021.cfd&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.41.190:8443
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@205.233.181.184:2087?security=tls&sni=Sb-1u6.paGEs.dEv&type=ws&host=Sb-1u6.paGEs.dEv&path=%2Fpc0cypuups4meoks%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.184:2087
@@ -602,4 +603,3 @@ vless://608743f6-2e9e-4ff8-b0b1-d27f12bfd5f1@185.146.173.52:8880?security=none&t
 vless://a800a772-9068-426a-b84a-f29da535166d@173.245.59.100:2052?type=httpupgrade&host=dash.cloudflare.com.www.speedtest.net.cdn.ir.Elmahstyle.ir.&path=%2Fresult%3Fed%3D2086#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-173.245.59.100:2052
 vless://ea77ecb6-20b1-418e-e8a6-b7a7086f7dd5@104.19.229.57:2083?security=tls&sni=nKaMHsnG1.zANdDYNAStYOfpErSIA.ORg&type=ws&host=nKaMHsnG1.zANdDYNAStYOfpErSIA.ORg&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.229.57:2083
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.30.125:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.30.125:443
-vless://c4b6ad48-db4a-4348-8e4a-e6a64a863c7d@104.21.7.6:443?security=tls&sni=PpaL03.mOHammAD-sEnGER.WoRKeRS.dev&type=ws&host=PPal03.moHAmMAD-sENGeR.wORKERs.dEV&path=%2F60DQVhzRgjIp-tWO%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.6:443
