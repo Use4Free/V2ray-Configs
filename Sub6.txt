@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://blue2024@104.18.187.171:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.187.171:443
+trojan://blue2024@190.93.244.61:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.244.61:443
+trojan://NISHIKUITAN111@162.159.20.97:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.20.97:443
+trojan://NISHIKUITAN111@5.10.244.100:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇳🇱 NL-5.10.244.100:443
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.163:443?security=tls&sni=blOOM-cHh.pAges.DeV&type=ws&host=blOOM-cHh.pAges.DeV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.192.163:443
+trojan://NISHIKUITAN111@154.197.75.171:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇸🇨 SC-154.197.75.171:443
 trojan://bpb-trojan@108.165.216.155:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-108.165.216.155:443
 trojan://blue2024@104.17.169.219:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.169.219:443
 trojan://NISHIKUITAN111@104.20.12.219:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.12.219:443
@@ -597,9 +603,3 @@ trojan://9yu6m5okr@172.67.198.177:443?security=tls&sni=production.tj.ojan.worker
 trojan://blue2024@104.16.146.105:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=/?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.146.105:443
 trojan://NISHIKUITAN111@45.135.235.196:443?#🔒 TR-TCP-NA 🇷🇺 RU-45.135.235.196:443
 trojan://blue2024@190.93.246.21:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.246.21:443
-trojan://NISHIKUITAN111@104.16.37.91:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.37.91:443
-trojan://blue2024@104.18.103.141:443?sni=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.103.141:443
-trojan://NISHIKUITAN111@185.176.24.104:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇷🇺 RU-185.176.24.104:443
-trojan://blue2024@172.64.35.199:443?security=tls&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.199:443
-trojan://NISHIKUITAN111@104.24.245.199:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.245.199:443
-trojan://NISHIKUITAN111@185.176.26.131:443?allowInsecure=0#🔒 TR-TCP-NA 🇰🇿 KZ-185.176.26.131:443
