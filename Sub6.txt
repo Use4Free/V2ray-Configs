@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://98f0c223-cb75-4faa-859e-47110b1f052b@104.21.69.44:2096?security=tls&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&type=ws&host=internet4everieone7.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:2096
+trojan://NISHIKUITAN111@188.164.158.111:443?#🔒 TR-TCP-NA 🇦🇲 AM-188.164.158.111:443
+trojan://blue2024@104.16.38.173:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.38.173:443
+trojan://NISHIKUITAN111@162.159.19.226:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.19.226:443
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@94.131.115.71:443?security=tls&sni=customer-94-131-115-71.stark-industries.solutions&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇪 SE-94.131.115.71:443
 trojan://6b7ec37b-96e7-37a1-9c9f-80399b8e7256@18.179.44.127:443?security=tls&sni=steampipe.akamaized.net&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-18.179.44.127:443
 trojan://NISHIKUITAN111@104.16.160.38:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.160.38:443
 trojan://telegram-id-privatevpns@52.47.199.255:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-52.47.199.255:22222
@@ -598,8 +603,3 @@ trojan://NISHIKUITAN111@104.23.121.87:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.2
 trojan://NISHIKUITAN111@104.24.180.165:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.180.165:443
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083?security=tls&sni=vfarid.xcdi.wOrKERS.DEV&type=ws&host=vfarid.xcdi.wOrKERS.DEV#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.5.134:2083
 trojan://578ade22-1e58-4c37-ce01-bfad51a72c62@104.17.148.22:8443?security=tls&sni=13l1.diginoshops10.ir&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.17.148.22:8443
-trojan://50cce31a-d637-4058-b2cd-9362de722d64@45.146.232.172:22269?sni=q08m.vgraxiw73s.hasyaf.cn#🔒 TR-TCP-NA 🇭🇰 HK-45.146.232.172:22269
-trojan://bpb-trojan@198.41.215.216:443?sni=bpb.my79801.com#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.215.216:443
-trojan://NISHIKUITAN111@172.66.42.99:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.66.42.99:443
-trojan://blue2024@104.17.147.167:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.167:443
-trojan://blue2024@104.16.223.254:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.223.254:443
