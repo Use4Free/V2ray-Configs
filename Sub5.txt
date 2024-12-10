@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://e9ff847b-e8ff-4690-bd68-d024c63c381e@172.67.112.206:443?security=tls&sni=r-uHMYL7d2INfl3Pf4.sm-node.com&type=ws&host=cdn-ca.sm-node.com&path=%2Fvless_ws%2Fsmjc%2Findex%3Fed%3D8192&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.112.206:443
+vless://e4c82c2f-f154-4272-bcc8-6380a84cddb5@62.60.218.126:5782?security=none&type=tcp&host=virgool.io&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.218.126:5782
 vless://d345d11e-c424-4583-b36e-527ab1f0afa4@104.18.10.128:2086?sni=v2raynselling.kir-rasol-kir.workers.dev&type=ws&host=v2raynselling.kir-rasol-kir.workers.dev&path=/&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.10.128:2086
 vless://552b5df7-252d-4ecb-818d-8e079a1ce2ad@104.18.32.47:443?security=tls&sni=football9.pages.dev&type=ws&host=football9.pages.dev&path=%2FTelegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2-Telegram-%58V2ry2%3Fed%3D512#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.32.47:443
 vless://53dc8717-4623-4479-860e-3704d7e4f8f2@188.114.98.186:443?security=tls&sni=VipCloudGod.nikoo-kala.Ir.&type=ws&host=VipCloudGod.nikoo-kala.Ir.&path=%2F%3Fed%3D1024#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.186:443
@@ -601,5 +603,3 @@ vless://f050cff5-f3a5-4d88-b653-e70fac34dd24@104.17.14.75:2095?security=none&typ
 vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.124.175:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.124.175:2083
 vless://62357561-a129-4b9e-9614-ce2578020866@43.129.97.210:8443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇭🇰 HK-43.129.97.210:8443
 vless://9a150a34-2ba4-4ff2-bcd2-974e87113f25@185.136.135.125:2082?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.136.135.125:2082
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?security=tls&sni=pages.dev&type=ws&host=fastxv.pages.dev&path=%2FXV2ray%3Fed%3D512#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.129.129:443
-vless://de6677da-e02c-4935-8ec0-24ed23fadfe9@185.16.110.30:2052?security=none&type=httpupgrade&host=WWW.tehrANSiman.coM.&path=%2F%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🇫🇷 FR-185.16.110.30:2052
