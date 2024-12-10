@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://NISHIKUITAN111@5.182.84.93:443?#%E6%9C%AA%E7%9F%A532
+trojan://blue2024@otto.ns.cloudflare.com:443?sni=ta.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A533
+trojan://blue2024@104.16.219.82:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A534
+trojan://blue2024@173.245.49.94:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A535
+trojan://blue2024@104.17.140.36:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A536
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.19.171.4:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#%E6%9C%AA%E7%9F%A537
 trojan://NISHIKUITAN111@5.10.247.97:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#%E6%9C%AA%E7%9F%A538
 trojan://blue2024@104.17.71.31:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A539

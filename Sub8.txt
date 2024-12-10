@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://bpb-trojan@104.21.7.153:443?sni=bpb.macser.us.kg&type=ws&host=bpb.macser.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-104.21.7.153:443
+trojan://NISHIKUITAN111@46.254.92.112:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇷🇺 RU-46.254.92.112:443
+trojan://NISHIKUITAN111@154.197.75.248:443?#🔒 TR-TCP-NA 🇸🇨 SC-154.197.75.248:443
+trojan://bpb-trojan@104.17.217.238:443?sni=bpb.my79801.com#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.217.238:443
+trojan://blue2024@104.22.37.243:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.22.37.243:443
+trojan://NISHIKUITAN111@104.21.18.51:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.18.51:443
 trojan://NISHIKUITAN111@104.24.250.232:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.250.232:443
 trojan://auto@104.20.20.150:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.20.150:443
 trojan://62ab7405-f2f3-4e76-b2d8-b6b1b1fe4fd0@139.162.121.178:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-139.162.121.178:443
@@ -597,9 +603,3 @@ trojan://7cd29891-fe78-4f8f-8844-abb31b9d9a75@0862.4a11.a51c.hongxingdl.vip:5535
 trojan://blue2024@icook.tw:443?sni=ta.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&type=ws&sni=bangladeshipatri.com&path=6b777a91&host=bangladeshipatri.com#%E6%9C%AA%E7%9F%A530
 trojan://blue2024@162.159.44.83:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A531
-trojan://NISHIKUITAN111@5.182.84.93:443?#%E6%9C%AA%E7%9F%A532
-trojan://blue2024@otto.ns.cloudflare.com:443?sni=ta.promote.icu#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A533
-trojan://blue2024@104.16.219.82:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A534
-trojan://blue2024@173.245.49.94:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A535
-trojan://blue2024@104.17.140.36:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A536
