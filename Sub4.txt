@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://28a5128c-34f7-5539-9b0c-466f95dc6301@104.21.12.82:2083?security=tls&sni=apihs.ysrdvukp.WOrKErS.dEv&type=ws&host=apihs.ysrdvukp.WOrKErS.dEv&path=vless-ws%2F%3Fed%3D2048&fp=ios&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.12.82:2083
+vless://5faa7026-7d35-4e8a-b308-773093496558@104.21.42.250:443?security=tls&sni=WWW.piazon.top&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.42.250:443
+vless://6cf1bec9-3cd3-40dc-8e41-f5fcc4e015a7@81.90.147.246:55672?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-81.90.147.246:55672
+vless://cee95290-7d44-4055-938c-0c15514c89e7@45.83.129.40:8403?flow=xtls-rprx-vision&sni=mirror.yandex.ru&type=tcp&fp=chrome&pbk=BcM4co0BLBjVHgN4G076QkLytKYYbz30I-j6NOHTNRU#🔒 VL-TCP-NA 🇨🇾 CY-45.83.129.40:8403
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.180.161.69:587?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-103.180.161.69:587
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.3.165:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.3.165:443
 vless://6def6431-32bd-41a3-a72e-a28734e767dc@172.67.212.44:80?type=ws&host=d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.d.xn-4oq36ed28d.com#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.212.44:80
@@ -599,7 +603,3 @@ vless://1318ef24-8181-4db2-bf21-f215d4d59a85@146.190.99.162:24473?security=none&
 vless://8dfc8efb-d126-442c-9339-a4a6b0c0493c@185.146.173.39:8880?security=none&type=httpupgrade&host=Login.CafeBazaar.CYoU.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇸🇪 SE-185.146.173.39:8880
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.202.211.216:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-198.202.211.216:443
 vless://abfacaa4-70ea-4061-b362-263b5a4070a4@190.93.247.155:8080?security=none&type=httpupgrade&host=1.www.speedtest.net.Mact.iR.&path=%2FTelegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-190.93.247.155:8080
-vless://e9ff847b-e8ff-4690-bd68-d024c63c381e@172.67.110.92:443?security=tls&sni=r-uHMYL7d2INfl3Pf4.sm-node.com&type=ws&host=cdn-ca.sm-node.com&path=%2Fvless_ws%2Fsmjc%2Findex%3Fed%3D8192&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.110.92:443
-vless://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087?security=tls&sni=subhiddify.mmdv2.host&type=ws&host=subhiddify.mmdv2.host&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&alpn=null#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.32.47:2087
-vless://c73113bf-99d5-4c92-9d3f-853a2d7bd85d@185.148.107.11:8443?security=tls&sni=f.ylks.xyz&type=ws&host=f.ylks.xyz&path=%2F#🔒 VL-WS-TLS 🇷🇺 RU-185.148.107.11:8443
-vless://028caef1-1852-4074-884b-993e8baf4fd7@143.244.51.250:80?security=none&type=splithttp&path=%2Fadmin#🔒 VL-SPLITHTTP-NONE 🇺🇸 US-143.244.51.250:80

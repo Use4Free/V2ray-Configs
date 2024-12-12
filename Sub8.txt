@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://blue2024@104.16.208.241:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.208.241:443
+trojan://blue2024@104.27.65.15:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-104.27.65.15:443
+trojan://blue2024@185.148.104.78:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🇺🇸 US-185.148.104.78:443
+trojan://blue2024@104.19.156.145:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.156.145:443
 trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.194.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=uhc6rhiubu.com&path=ws%2F%3Fed%3D2048#🔒 TR-WS-TLS 🇺🇸 US-151.101.194.228:443
 trojan://blue2024@172.64.38.133:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.38.133:443
 trojan://NISHIKUITAN111@104.24.71.245:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.71.245:443
@@ -599,7 +603,3 @@ ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@217.30.10.18:9079#🔒 SS-TCP-NA �
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.113:2375#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:2375
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.113:445#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:445
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.53:8881#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.53:8881
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.150.152.16:443#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:443
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8080#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTU4NmFhYi0zYTM3LTRmNTUtYjhiNy01YWU2OTU3MmQ0MDM=@94.182.106.140:1935#🔒 SS-TCP-NA 🇮🇷 IR-94.182.106.140:1935
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.113:7307#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:7307
