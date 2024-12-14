@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://62357561-a129-4b9e-9614-ce2578020866@92.243.74.239:8443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-92.243.74.239:8443
-vless://028caef1-1852-4074-884b-993e8baf4fd7@89.187.180.101:80?security=none&type=splithttp&path=%2Fadmin#🔒 VL-SPLITHTTP-NONE 🇺🇸 US-89.187.180.101:80
-vless://3048b07c-3312-486f-a706-4ce7d67b9652@104.21.9.166:2052?security=none&type=httpupgrade&host=configt.ue.nipytee.info&path=%2F%3Fed%3D2087#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.9.166:2052
 vless://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@104.18.32.69:443?security=tls&sni=POOrIaREd--persEPolIS.pAGEs.Dev&type=ws&host=poORiaReD--PErsePOlIs.PagES.DEv&path=%2FTelegram-%40V2ray_AlphaV2rayNGns%2F%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.32.69:443
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.4.57:2087?security=tls&sni=2-gd65fd.hc2021.cfd&type=ws&host=2-gd65fd.hc2021.cfd&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.57:2087
 vless://7ebe434e-1dcd-4dee-a739-23a2a6025755@199.232.5.153:443?security=tls&sni=sums.ac.ir&type=ws&host=sums.ac.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.5.153:443
@@ -603,3 +600,6 @@ vless://e952fc48-1f3d-47b4-b7bf-1149e0b4dbe6@104.17.207.36:8880?security=none&ty
 vless://c8951426-a5a8-5fcb-884f-0a253f771dfd@172.67.171.39:80?security=none&type=ws&host=Fr1.vless.site.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.39:80
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@185.170.166.220:443?security=tls&sni=Tp050KvBgB.eHsAnDnS10.iR&type=grpc#🔒 VL-GRPC-TLS 🇬🇧 GB-185.170.166.220:443
 vless://62357561-a129-4b9e-9614-ce2578020866@162.159.44.232:2096?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.232:2096
+vless://5140b2ea-b77d-4af7-a240-593de74b5f8e@194.87.30.62:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇸🇪 SE-194.87.30.62:443
+vless://dd39201c-7618-469d-968c-10d07410d59b@2.188.224.112:35552?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-2.188.224.112:35552
+vless://028caef1-1852-4074-884b-993e8baf4fd7@156.146.53.35:80?security=none&type=splithttp&path=%2Fadmin#🔒 VL-SPLITHTTP-NONE 🇺🇸 US-156.146.53.35:80

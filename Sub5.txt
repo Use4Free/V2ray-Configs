@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://5140b2ea-b77d-4af7-a240-593de74b5f8e@194.87.30.62:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇸🇪 SE-194.87.30.62:443
-vless://dd39201c-7618-469d-968c-10d07410d59b@2.188.224.112:35552?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-2.188.224.112:35552
-vless://028caef1-1852-4074-884b-993e8baf4fd7@156.146.53.35:80?security=none&type=splithttp&path=%2Fadmin#🔒 VL-SPLITHTTP-NONE 🇺🇸 US-156.146.53.35:80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@89.117.112.95:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇱🇹 LT-89.117.112.95:443
 vless://f3fcb0be-c785-4791-bd88-335dd20f0c1e@188.42.145.140:443?security=tls&sni=g1.youyuan.us.kg&type=ws&host=g1.youyuan.us.kg&path=%2F%3Fproxyip%3Dproxyip.multacom.fxxk.dedyn.io&fp=chrome#🔒 VL-WS-TLS 🇱🇺 LU-188.42.145.140:443
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@154.92.9.151:80?security=none&type=ws&host=csgo.mozilla.5.0.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.tor.rubika.cloudns.ch.&path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751#🔒 VL-WS-NONE 🇯🇵 JP-154.92.9.151:80
@@ -603,3 +600,6 @@ vless://42b60044-5438-4d9b-92de-c3592881223a@104.18.25.92:2096?security=tls&sni=
 vless://fc11d745-f2a3-49d2-a176-0851bc0fad06@5.202.9.187:443?security=tls&sni=c1.carcarpetq.com&type=tcp&host=c1.carcarpetq.com&headerType=http&fp=chrome&alpn=http%2F1.1#🔒 VL-TCP-TLS 🇮🇷 IR-5.202.9.187:443
 vless://c7e4f8b3-6f1c-40b6-bdd9-7fdabe65821e@51.81.186.36:443?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-51.81.186.36:443
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@104.26.6.214:443?security=tls&sni=rayan.sahel.us.kg&type=ws&host=rayan.sahel.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.214:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@94.242.230.130:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇱🇺 LU-94.242.230.130:443
+vless://18b50225-c044-46d3-a7a8-8a67ef4880d3@85.133.206.223:25081?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.206.223:25081
+vless://cdfee595-ccd0-4921-87b4-3683d9f2353d@185.119.240.194:2002?type=tcp#🔒 VL-TCP-NA 🇮🇷 IR-185.119.240.194:2002
