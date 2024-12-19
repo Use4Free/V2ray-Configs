@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.110.1.35:8881#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.35:8881
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.113:8080#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:8080
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:6379
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.110.1.3:7002#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.3:7002
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.87:6379
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@107.175.96.74:16899#🔒 SS-TCP-NA 🇺🇸 US-107.175.96.74:16899
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.198:443
@@ -603,3 +599,7 @@ trojan://blue2024@104.19.216.63:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A594
 trojan://blue2024@104.18.37.5:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A595
 trojan://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?security=tls&type=ws&sni=Noshteri.hooplnqpb.ir&host=Noshteri.hooplnqpb.ir#%E6%9C%AA%E7%9F%A596
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.216:5000#US34%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk=@45.158.59.74:58060#%E6%9C%AA%E7%9F%A597
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.91.100.199:9101#US35%202.0MB%2Fs
+trojan://NISHIKUITAN111@104.22.60.224:443?#%E6%9C%AA%E7%9F%A598
+trojan://NISHIKUITAN111@104.20.116.38:443?#%E6%9C%AA%E7%9F%A599
