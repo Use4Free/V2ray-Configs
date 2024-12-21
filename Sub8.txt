@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://NISHIKUITAN111@104.24.245.199:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.245.199:443
+trojan://3648425794742788096@5.8.35.140:443?security=tls&sni=prime-gator.treefrog761.one&type=tcp#🔒 TR-TCP-TLS 🇮🇳 IN-5.8.35.140:443
+trojan://yaml777@104.21.61.73:443?security=tls&sni=yaml7.ggff.net&type=ws&host=yaml7.ggff.net&path=%2F&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.61.73:443
+trojan://bpb-trojan@190.93.244.2:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed&alpn=null#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.244.2:443
 trojan://NISHIKUITAN111@45.159.218.249:443?#🔒 TR-TCP-NA 🇺🇸 US-45.159.218.249:443
 trojan://NISHIKUITAN111@5.182.84.93:443?#🔒 TR-TCP-NA 🇷🇺 RU-5.182.84.93:443
 trojan://telegram-id-privatevpns@3.79.133.159:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.79.133.159:22222
@@ -599,7 +603,3 @@ trojan://blue2024@172.66.44.129:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠
 trojan://bpb-trojan@141.101.114.2:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=/tr?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-141.101.114.2:443
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@168.138.142.53:443?security=tls&sni=bz02.ssr.ee&type=tcp#🔒 TR-TCP-TLS 🇧🇷 BR-168.138.142.53:443
 trojan://NISHIKUITAN111@141.101.113.253:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.113.253:443
-trojan://NISHIKUITAN111@104.25.22.6:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.22.6:443
-trojan://NISHIKUITAN111@104.26.10.219:443?allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.10.219:443
-trojan://ced63688-30a1-50b9-8f3b-b8d3f834abc0@151.101.66.219:80?security=none&type=ws&host=MO-SI-V2.COM#🔒 TR-WS-NONE 🇺🇸 US-151.101.66.219:80
-trojan://bpb-trojan@190.93.245.71:443?security=tls&sni=adagio.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-190.93.245.71:443
