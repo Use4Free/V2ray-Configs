@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.13.31:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.31:443
 vless://eebcdbce-4a2a-437e-9b30-f9d24793ebb1@104.16.255.209:443?security=tls&sni=vbbd.lii2010.us.kg&type=ws&host=vbbd.lii2010.us.kg&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.255.209:443
 vless://e9ff847b-e8ff-4690-bd68-d024c63c381e@172.67.110.101:443?security=tls&sni=r-uHMYL7d2INfl3Pf4.sm-node.com&type=ws&host=cdn-ca.sm-node.com&path=%2Fvless_ws%2Fsmjc%2Findex%3Fed%3D8192&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.110.101:443
 vless://56049972-b2f0-4ba5-ab21-f01bb68cfd6a@104.17.148.22:8080?security=none&type=httpupgrade&host=sub-89ytdd0zy-rubika.ir.google.com.xn--qeiaaaaa59373faaaabaababbaaaaaaaaaabaabaaa.xn--qeiaaaaaaaaa55590kaaaeabaaeaaaaaaaaaaabaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--qei0158maaaaaaaaaaabaaa.xn--g28h.arash.cyou&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.148.22:8080
@@ -602,4 +603,3 @@ vless://464d644c-9c10-4c02-9117-4c75b0c347cd@172.67.153.253:8080?type=ws#🔒 VL
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.79:443?security=tls&sni=mefa.ir&type=ws&host=mefa.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.5.79:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.7.170:80?security=none&type=ws#🔒 VL-WS-NONE 🇳🇱 NL-45.131.7.170:80
 vless://bf9dc0d0-91c5-4d33-a45e-d8900bb22957@172.67.1.143:443?security=tls&sni=vpn-ocean29312.cdn-user4.workers.dev&type=ws&host=vpn-ocean29312.cdn-user4.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.1.143:443
-vless://b6cea380-cc8c-4e33-ab32-fc4d284ab5db@172.67.207.26:8080?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.207.26:8080
