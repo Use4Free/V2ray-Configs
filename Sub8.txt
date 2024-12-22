@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://NISHIKUITAN111@172.67.188.237:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.188.237:443
+trojan://bpb-trojan@188.114.97.88:2053?security=tls&sni=G1-21N.paGEs.dev&type=ws&host=g1-21n.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.97.88:2053
+trojan://NISHIKUITAN111@104.18.84.174:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.84.174:443
+trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@138.2.227.52:443?security=tls&sni=us08.ssr.ee&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-138.2.227.52:443
+trojan://blue2024@88.216.67.108:443?sni=b.promote.icu#🔒 TR-TCP-NA 🇱🇹 LT-88.216.67.108:443
 trojan://NISHIKUITAN111@104.24.250.232:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.250.232:443
 trojan://NISHIKUITAN111@104.25.227.104:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.227.104:443
 trojan://blue2024@185.148.105.22:443?sni=b.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-185.148.105.22:443
@@ -598,8 +603,3 @@ trojan://blue2024@104.16.136.223:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍
 trojan://NISHIKUITAN222@188.114.98.152:443?security=tls&sni=in.ylks.xyz&type=ws&host=in.ylks.xyz&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.98.152:443
 trojan://blue2024@104.17.71.89:443?sni=ha.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.71.89:443
 trojan://blue2024@172.64.35.168:443?security=tls&sni=tc.promote.icu&type=ws&host=tc.promote.icu&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.168:443
-trojan://3542952f-fabc-4556-b68b-dcd4e21c3944@95.164.117.128:8880?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=firefox&pbk=ra4OxEIGMgGc84ujeHHHuks4AKE_PXakoKFvL89b71E&sid=680a8928#🔒 TR-TCP-REALITY 🇩🇪 DE-95.164.117.128:8880
-trojan://blue2024@31.22.116.89:443?sni=b.promote.icu#🔒 TR-TCP-NA 🇬🇧 GB-31.22.116.89:443
-trojan://telegram-id-directvpn@16.171.220.195:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.171.220.195:22222
-trojan://NISHIKUITAN111@104.19.51.192:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.51.192:443
-trojan://blue2024@216.116.134.146:443?sni=b.promote.icu#🔒 TR-TCP-NA 🇺🇸 US-216.116.134.146:443
