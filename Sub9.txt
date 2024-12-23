@@ -602,4 +602,4 @@ trojan://NISHIKUITAN111@104.18.198.40:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.1
 trojan://blue2024@162.159.44.169:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.169:443
 trojan://bpb-trojan@104.27.9.13:443?sni=adagio.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.9.13:443
 trojan://cbaaacb-baca-cbaa-dacb-acbcabcacabb@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-ss://bm9uZTpiY2JhYWNhLWNhYmEtYWFjYi1hYmRjLWNiYWJjYmNjYmFhYQ==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 MON-03-DEY-1403 🕑 16:40
+ss://bm9uZTpiY2NhYWFiLWNiYWEtYWFjYi1kYWJjLWNjYWFhY2FiY2JiYg==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 MON-03-DEY-1403 🕑 17:20
