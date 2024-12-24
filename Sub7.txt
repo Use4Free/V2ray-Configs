@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://219d848d-60f2-4321-8275-72b9b575b37e@104.19.46.229:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.46.229:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@104.18.128.229:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.128.229:443
 vless://876c612d-a6e5-4799-bc3e-80f880cffc71@104.21.30.29:8880?security=none&type=httpupgrade&host=joinbede-daily-configs.broken-dreams.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.30.29:8880
 vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@104.21.74.191:2096?security=tls&sni=xcsz.ylks2024.us.kg&type=ws&host=xcsz.ylks2024.us.kg&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.191:2096
@@ -603,3 +602,4 @@ trojan://NISHIKUITAN111@216.205.52.233:443?sni=za.ylks.xyz&type=ws&host=za.ylks.
 trojan://NISHIKUITAN111@198.41.214.39:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.214.39:443
 trojan://0028109a-37ed-4ded-b858-e566388a904c@52.221.226.174:20230?security=tls&sni=421421.xyz#🔒 TR-TCP-TLS 🇸🇬 SG-52.221.226.174:20230
 trojan://blue2024@162.159.44.207:443?sni=tb.promote.icu&type=ws&host=tb.promote.icu#🔒 TR-WS-NA 🏴‍☠️ NA-162.159.44.207:443
+trojan://NISHIKUITAN111@104.17.174.232:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.174.232:443

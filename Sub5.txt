@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://62357561-a129-4b9e-9614-ce2578020866@52.68.248.185:443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇯🇵 JP-52.68.248.185:443
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.47:2053?security=tls&sni=SB-1U6.PAgEs.dev&type=ws&path=%2Ffltcxoo6grqvat6v%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.47:2053
 vless://219d848d-60f2-4321-8275-72b9b575b37e@104.19.49.226:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.49.226:443
 vless://caa5d2a1-0718-4945-a41a-697a44f94875@104.16.32.14:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.32.14:443
@@ -603,3 +602,4 @@ vless://96b4eabb-fb01-450b-978b-c050085c6d51@185.146.173.25:8880?security=none&t
 vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:443?security=tls&sni=trojanyu.pages.dev&type=ws&host=trojanyu.pages.dev&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.224:443
 vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@188.114.97.158:443?security=tls&sni=lhxt.xiaomi.win&type=ws&host=lhxt.xiaomi.win&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.158:443
 vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?security=tls&sni=www.zitian.cn&fp=chrome&alpn=http/1.1#🔒 VL-TCP-TLS 🇨🇳 CN-42.236.73.72:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@89.117.112.140:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇱🇹 LT-89.117.112.140:443
