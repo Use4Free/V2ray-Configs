@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.85.105:2053?security=tls&sni=v2.yUnCHuN.TOP&type=ws&host=v2.yUnCHuN.TOP&path=%2Fk6f0s3n3dz6ad6rz%2Fynbilnlvdxnlzi5pc2vnyxjvlmnvbq%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.85.105:2053
+vless://1f77f427-62f1-4ff6-a085-21278eb04472@5.202.7.72:45495?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-5.202.7.72:45495
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@37.230.62.172:8080?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇬🇧 GB-37.230.62.172:8080
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[::ffff:104.17.110.12]:443?security=tls&sni=xxx.donated005.workers.dev&type=ws&host=xxx.donated005.workers.dev&path=%2F%40Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:104.17.110.12]:443
 vless://daa0e358-5062-45ea-8ca4-87121759f950@151.101.0.137:80?type=ws&host=edu.tabligh.au&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-151.101.0.137:80
@@ -601,5 +603,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.130.18:2083?security=tls&sni
 vless://86e90833-7f6c-48b5-b273-9b4a55568e4e@151.101.1.111:80?security=none&type=ws&host=isna.ir&path=%2Fnews#🔒 VL-WS-NONE 🇺🇸 US-151.101.1.111:80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@192.200.160.101:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.101:443
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@172.64.33.167:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.33.167:443
-vless://219d848d-60f2-4321-8275-72b9b575b37e@104.19.79.157:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.79.157:443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.31:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.31:443

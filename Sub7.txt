@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://95c434e5-c044-4633-a0d9-31548c8d43c8@104.18.14.19:80?type=ws&host=1222.vx84g0b3.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.14.19:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.24.24.45:2053?security=tls&sni=ax78345V2ray.pages.dev&type=ws&host=78345.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.24.45:2053
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.97:443?security=tls&sni=vb.zhuk.us.kg&type=ws&host=vb.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.97:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@212.183.88.194:443?security=tls&sni=vb.zhuk.us.kg&type=ws&host=vb.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.194:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.26.12.140:2096?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.140:2096
@@ -601,5 +603,3 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@176.124.223.171:443?security=tls&sn
 vless://18cd7434-d639-11ee-aaa8-00505603e70d@104.26.11.137:443?security=tls&sni=st-gb-1.brocdn.com&type=ws&host=st-gb-1.brocdn.com&path=%2Fwebsocket&alpn=null#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.11.137:443
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@160.153.0.183:443?security=tls&sni=Tp050KvBgB.eHsAnDnS10.iR&type=grpc&fp=firefox&alpn=null#🔒 VL-GRPC-TLS 🇺🇸 US-160.153.0.183:443
 vless://01970283-51b9-4ad4-96ef-9dfc8ee3dd74@162.159.136.234:2096?security=tls&sni=sub2.ailreza.org.tr&type=grpc&serviceName=2096vless&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.234:2096
-vless://de44b044-8f90-4e18-b742-16591667ff96@202.60.191.6:17922?security=tls&sni=edgetunnel-free.pages.dev&type=ws&host=edgetunnel-free.pages.dev&fp=chrome#🔒 VL-WS-TLS 🇯🇵 JP-202.60.191.6:17922
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@172.67.139.111:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:443
