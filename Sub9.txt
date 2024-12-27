@@ -3,6 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://blue2024@104.17.150.255:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.17.150.255:443
+trojan://blue2024@104.18.84.67:443?security=tls&sni=ha.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.18.84.67:443
+trojan://97bc3270-c42b-11ef-a244-1239d0255272@51.210.182.170:443?security=tls&sni=telewebion.com&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.210.182.170:443
+trojan://blue2024@104.26.7.89:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.7.89:443
+trojan://blue2024@104.17.33.7:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.33.7:443
+trojan://blue2024@172.67.135.57:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.135.57:443
+trojan://NISHIKUITAN111@92.243.74.60:443?#🔒 TR-TCP-NA 🇸🇬 SG-92.243.74.60:443
+trojan://blue2024@104.27.65.15:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-104.27.65.15:443
+trojan://NISHIKUITAN111@89.117.112.181:443?#🔒 TR-TCP-NA 🇱🇹 LT-89.117.112.181:443
+trojan://25a0ffa0-725c-4d6f-b0d5-c74579753075@103.173.66.155:443?security=tls&sni=Cmc3.5gsieuvip.vn&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇻🇳 VN-103.173.66.155:443
+trojan://NISHIKUITAN111@104.24.164.50:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.164.50:443
+trojan://NISHIKUITAN111@213.241.198.195:443?#🔒 TR-TCP-NA 🇷🇺 RU-213.241.198.195:443
+trojan://NISHIKUITAN111@104.25.101.27:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.101.27:443
 trojan://NISHIKUITAN111@104.24.250.232:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.250.232:443
 trojan://NISHIKUITAN111@104.20.116.38:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.116.38:443
 trojan://NISHIKUITAN111@104.21.94.36:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.94.36:443
@@ -590,16 +603,3 @@ trojan://948b5904-d702-46c1-8f76-1c4d3ba01705@188.245.208.177:26745?security=non
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&sni=connectwithemployers.online&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-139.59.119.143:443
 trojan://blue2024@198.41.212.250:443?sni=ta.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.212.250:443
 trojan://blue2024@104.18.119.211:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.119.211:443
-trojan://60005b16-5e62-4de2-8c27-4df72635e21d@38.150.12.188:52150?sni=xxfa85toflprzb7rt7-jp.xxfnode.com#🔒 TR-TCP-NA 🇺🇸 US-38.150.12.188:52150
-trojan://blue2024@104.18.37.5:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.37.5:443
-trojan://blue2024@104.21.70.175:443?security=tls&sni=ha.lii2010.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.70.175:443
-trojan://bpb-trojan@141.101.114.52:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-141.101.114.52:443
-trojan://0028109a-37ed-4ded-b858-e566388a904c@3.0.103.251:20230?security=tls&sni=421421.xyz#🔒 TR-TCP-TLS 🇸🇬 SG-3.0.103.251:20230
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&sni=sherasheba.com&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.192.1:443
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🔒 TR-TCP-NA 🇳🇱 NL-185.236.233.111:2053
-trojan://blue2024@104.18.35.253:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.35.253:443
-trojan://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@104.21.84.3:443?security=tls&sni=wwwd7e1909f3a7e4477.jostar-data.nl&type=httpupgrade&host=d7e1909f3a7e4477.jostar-data.nl&path=%2Fquran%2Fdeam_net301.67+GB%2F%3Fed%3D2560&fp=firefox&alpn=h3#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.84.3:443
-trojan://blue2024@188.114.97.122:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.97.122:443
-trojan://blue2024@104.129.167.128:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇺🇸 US-104.129.167.128:443
-trojan://blue2024@172.64.149.203:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.149.203:443
-trojan://blue2024@104.19.162.122:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.162.122:443
