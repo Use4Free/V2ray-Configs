@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://blue2024@104.18.41.190:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.41.190:443
+trojan://blue2024@168.100.6.237:443?security=tls&sni=b.promote.icu&type=ws&host=tb.promote.icu&path=%2F%3Fed#🔒 TR-WS-TLS 🇺🇸 US-168.100.6.237:443
+trojan://NISHIKUITAN111@104.21.18.51:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.18.51:443
+trojan://bpb-trojan@104.17.133.64:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.133.64:443
 trojan://blue2024@104.16.45.220:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.45.220:443
 trojan://bpb-trojan@190.93.244.136:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=/tr?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.244.136:443
 trojan://blue2024@104.25.171.193:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.25.171.193:443
@@ -599,7 +603,3 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7002#🔒 SS-TCP-NA �
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.120:8090#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8090
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.248.54.190:1234#🔒 SS-TCP-NA 🇯🇵 JP-54.248.54.190:1234
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@217.182.198.219:8009#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:8009
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@178.175.134.2:989#🔒 SS-TCP-NA 🇲🇩 MD-178.175.134.2:989
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.46:7307#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.46:7307
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.241.30.133:443#🔒 SS-TCP-NA 🇧🇭 BH-157.241.30.133:443
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@45.89.52.66:9001#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9001
