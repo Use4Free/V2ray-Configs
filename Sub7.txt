@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7b840a59-1086-4d1b-bd7a-a4511500393c@92.38.145.145:80?security=none&type=httpupgrade&host=oipm.org&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-92.38.145.145:80
 vless://50dcb59d-fc2c-4dd2-a34a-3eec2918eb47@18.198.168.3:443?security=tls&sni=sa.bgm2024.us.kg&type=ws&host=sa.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇩🇪 DE-18.198.168.3:443
 vless://f988794c-cdb2-4842-b604-06e65cf6d040@172.66.44.53:8443?security=tls&sni=societshaia7rysv.aminho3ien.ir&type=grpc&serviceName=@iMrV2ray#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.44.53:8443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@104.129.165.105:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-104.129.165.105:443
@@ -603,3 +602,4 @@ vless://dd25e170-413a-42f6-8784-2408146ee4a9@172.67.70.123:80?security=none&type
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.159.84.71:443?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-129.159.84.71:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@135.84.76.146:443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-135.84.76.146:443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.174.177.221:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-35.174.177.221:22222
+vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@108.162.192.158:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.158:443

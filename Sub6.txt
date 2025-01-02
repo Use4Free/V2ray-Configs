@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@5.182.85.132:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇺 RU-5.182.85.132:8443
 vless://6a3a0a2c-e038-47a9-afd0-ab9d188624e9@188.114.98.230:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.230:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@45.194.53.196:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-45.194.53.196:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@45.159.218.23:443?security=tls&sni=vbbd.ylks2024.us.kg&type=ws&host=vbbd.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.23:443
@@ -603,3 +602,4 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@185.148.106.55:443?security=tls&sni
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@188.42.145.238:443?security=tls&sni=vbbd.ylks2024.us.kg&type=ws&host=vbbd.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇱🇺 LU-188.42.145.238:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@129.151.225.228:8443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=%2Fuxb.vs2024.us.kg#🔒 VL-WS-TLS 🇫🇷 FR-129.151.225.228:8443
 vless://4cdb1c79-c6fa-4068-9e3b-f64748432205@104.21.26.222:443?security=tls&sni=95948856080148125256718271875881.v2line.net&type=ws&host=95948856080148125256718271875881.v2line.net&path=/V2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.26.222:443
+vless://7b840a59-1086-4d1b-bd7a-a4511500393c@92.38.145.145:80?security=none&type=httpupgrade&host=oipm.org&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-92.38.145.145:80
