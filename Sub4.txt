@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://13fa0037-5480-446b-8885-714e424677fb@172.64.109.148:80?security=none&type=ws&host=black-wind-7f73lb.jewefe6869.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.109.148:80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@138.2.123.70:443?security=tls&sni=vb.zhuk.us.kg&type=ws&host=vb.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-138.2.123.70:443
 vless://bebfef61-40e3-4f5b-b7a7-bc749d08cf02@188.245.43.193:8080?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.43.193:8080
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.79.164.28:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇩🇪 DE-3.79.164.28:22222
@@ -603,3 +602,4 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.234.247.205:2198?security=none&
 vless://caea2319-2cb9-43c7-b484-f0162a158354@151.101.3.8:80?security=none&type=ws&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=devfreedomnetbyamir.com&path=%2F%54el%65Gr%61m.%43ha%6en%65l%40%48%71v2%52ay%4eG---%40%48%71v2%52ay%4eG---%40%48%71v2%52ay%4eG---%40%48%71v2%52ay%4eG---%40%48%71v2%52ay%4eG---%40%48%71v2%52ay%4eG---%40%48%71v2%52ay%4eG---%40%48%71v2%52ay%4eG---%40%48%71v2%52ay%4eG-%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.8:80
 vless://c4ccdba8-dfae-4354-a78c-3d5f113f15d7@104.19.42.4:443?security=tls&sni=violation-em-pulling-referenced.trycloudflare.com&type=ws&host=violation-em-pulling-referenced.trycloudflare.com&path=%2Fc4ccdba8-dfae-4354-a78c-3d5f113f15d7-vless%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.42.4:443
 vless://62a49d41-e231-4a6b-af26-cec86ef64001@172.67.205.138:443?security=tls&sni=1403.stopt7307.workers.dev&type=ws&host=1403.stopt7307.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.205.138:443
+vless://b0a63ba3-6cb0-48de-a19d-12babdb0ba4d@172.64.155.187:2082?security=none&type=ws&host=23tg.fh19yh0z.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.155.187:2082
