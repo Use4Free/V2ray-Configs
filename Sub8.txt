@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.32.78:443?security=tls&sni=Bia.alLhub.Ltd&type=ws&host=biA.ALlhub.LTD&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.32.78:443
 vless://c3c20db7-d32b-454a-9843-ec22d064a842@104.21.41.131:443?security=tls&sni=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&type=ws&host=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&path=%2F-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR%2F%3Fed%3D2047#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.41.131:443
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.32.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.1:2096
 vless://219d848d-60f2-4321-8275-72b9b575b37e@104.19.79.157:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.79.157:443
@@ -603,3 +602,4 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.0:443?security=tls&sni=vs
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.161.106:443?security=tls&sni=FAlLING-moUNTaIn-feDa.0aFcB2f493.woRkeRs.DEV&type=ws&host=fALlING-MOUntAiN-FEDA.0AfCB2F493.WORkeRS.dEv&path=%2FN39iaguwplzJWORX%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.106:443
 vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@108.165.216.31:443?security=tls&sni=xN----Pmcnaac0DKn0Rb71nDa.PAGes.deV&type=ws&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=%2FQDgbPY504qRAGCv5%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.31:443
 vless://c73113bf-99d5-4c92-9d3f-853a2d7bd85d@104.26.2.185:8443?security=tls&sni=f.ylks.xyz&type=ws&host=f.ylks.xyz&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.2.185:8443
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.17.247.117:2083?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.247.117:2083
