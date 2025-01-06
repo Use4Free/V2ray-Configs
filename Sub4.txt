@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@172.67.77.111:2087?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.77.111:2087
-vless://ad372bb8-c479-53ca-beac-0081e2f37613@104.21.44.58:443?security=tls&sni=worker-ali2.qlodwdul.wORkerS.DeV&type=ws&host=worker-ali2.qlodwdul.wORkerS.DeV&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.44.58:443
 vless://3048b07c-3312-486f-a706-4ce7d67b9652@172.67.160.214:2052?security=none&type=httpupgrade&host=configt.ue.nipytee.info&path=%2F%3Fed%3D2087#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.160.214:2052
 vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.124.175:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.124.175:2083
 vless://01970283-51b9-4ad4-96ef-9dfc8ee3dd74@162.159.136.234:2096?security=tls&sni=sub2.ailreza.org.tr&type=grpc&serviceName=2096vless&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.234:2096
@@ -603,3 +601,5 @@ vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.19.74.113:443?security=tls&sni=
 vless://cfa8156d-32a6-4408-8e6a-226d2f212f04@185.146.173.206:2087?security=tls&sni=g4.ferdowsi.shop&type=grpc&serviceName=Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.206:2087
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.244:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.244:443
 vless://fe945275-51a2-5c3c-8669-2c112ed35cec@172.67.171.93:443?security=tls&sni=nl1.vless.site&type=ws&host=nl1.vless.site&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.93:443
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.69.216:443?security=tls&sni=pages.dev&type=ws&host=download-93w.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.216:443
+vless://fdb667db-7ba5-4f9c-aa1f-705504706257@104.21.54.147:2095?security=none&type=httpupgrade&path=%2Fquran.vinatech.ir%2Fru2.pls-hope.ir%3Fed%3D2095#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.54.147:2095

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://4ebb5e40-adc7-49d0-970c-e304e3bf6c3a@65.109.209.201:7642?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.209.201:7642
-vless://a520cac9-f99b-4d70-aa3e-02155a5c6b2c@104.21.80.1:80?security=none&type=ws&host=icy-recipe-a01e-esaa.o5sp7omnxkeh6xg4we.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.80.1:80
 vless://f8d843dc-46db-49a7-a4d3-3f87e968f4e2@104.26.12.101:2087?security=tls&sni=VlP.varzesh3.ru&type=ws&host=VlP.varzesh3.ru&path=%2Fwe.dc.2096&fp=ios&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.101:2087
 vless://028caef1-1852-4074-884b-993e8baf4fd7@89.187.187.13:80?security=none&type=splithttp&path=%2Fadmin#🔒 VL-SPLITHTTP-NONE 🇺🇸 US-89.187.187.13:80
 vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@77.37.33.124:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&host=vbbc.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.124:443
@@ -603,3 +601,5 @@ vless://e5235f1b-d000-4fe2-bc4d-4a67bfde404c@81.12.32.27:8080?security=none&type
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.80.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.1:2096
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.252:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.252:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.254:443?security=tls&sni=uxa.vs2024.us.kg&type=ws&host=uxa.vs2024.us.kg&path=%2Fuxa.vs2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.254:443
+vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@102.177.176.74:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&host=vbbc.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇿🇦 ZA-102.177.176.74:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@5.2.73.137:7000?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-5.2.73.137:7000
