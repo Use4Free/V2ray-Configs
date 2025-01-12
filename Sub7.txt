@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.61.180:443?security=tls&sni=pPal03.lAKEn-aBHiraAM.WoRKERs.DeV&type=ws&host=PPal03.LAkEN-AbhIraAm.WOrkErS.deV&path=%2FZ2xcIKzLEcHApagm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.61.180:443
 vless://260c4900-69a9-465c-8c3a-272eb1b4ec00@45.131.7.7:8080?security=none&sni=ShaHrAmcOnfIgWoRKERcjsA9898.CoNfIGshaHrAmcOnfIg.woRKeRs.dev&type=ws&host=ShaHrAmcOnfIgWoRKERcjsA9898.CoNfIGshaHrAmcOnfIg.woRKeRs.dev&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇳🇱 NL-45.131.7.7:8080
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.0.158:443?security=tls&sni=PPAl03.revAn-JHOnY.wOrkErS.DEv&type=ws&host=PpAL03.reVan-JhoNY.wORKeRs.dEV&path=%2FD00QcvMmFC8SLlWB%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.0.158:443
 vless://b9dad5ed-74da-4a43-8145-90d06df1f890@205.233.181.36:2053?security=tls&sni=rix.tgzdyz2.top&type=ws&host=rix.tgzdyz2.top&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.36:2053
@@ -603,3 +602,4 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.187:443?security=tls&sn
 vless://62357561-a129-4b9e-9614-ce2578020866@27.50.49.74:2087?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.74:2087
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:8443?security=tls&sni=vkvd127.mycdn.me&type=tcp&fp=chrome&alpn=h2#🔒 VL-TCP-TLS 🇩🇪 DE-89.187.169.71:8443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@190.93.245.3:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.245.3:443
+vless://219d848d-60f2-4321-8275-72b9b575b37e@162.159.153.111:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.111:443

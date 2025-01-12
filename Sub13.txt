@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.69.180.74:443#🔒 SS-TCP-NA 🇺🇸 US-54.69.180.74:443
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.37.12.70:8090#🔒 SS-TCP-NA 🇫🇷 FR-54.37.12.70:8090
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8091#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:8091
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#🔒 SS-TCP-NA 🇨🇦 CA-142.4.216.225:80
@@ -603,3 +602,4 @@ trojan://bpb-trojan@198.41.215.216:443?sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A5138
 trojan://a79760d9-f9e9-43cf-a1d5-61ed225d7e62@49.12.193.119:443?security=reality&headerType=none&type=tcp&sni=yahoo.com#%E6%9C%AA%E7%9F%A5139
 trojan://NISHIKUITAN111@162.159.35.22:443?#%E6%9C%AA%E7%9F%A5140
 trojan://blue2024@104.27.41.214:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5141
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#US51%2085.6MB%2Fs

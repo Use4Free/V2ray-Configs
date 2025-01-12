@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@173.245.58.158:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.158:443
 vless://4285f327-20c6-483c-ab28-5ed6d28837bc@104.21.20.148:443?security=tls&sni=xe50-de40cdn1.unlimiteddev.co&type=ws&host=xe50-de40cdn1.unlimiteddev.co&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.148:443
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?security=none&type=ws&host=fraud.chase#🔒 VL-WS-NONE 🇺🇸 US-151.101.131.1:80
 vless://e05e8b96-212d-48e6-b12c-852a37f217bb@2.188.224.89:54210?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-2.188.224.89:54210
@@ -603,3 +602,4 @@ vless://62357561-a129-4b9e-9614-ce2578020866@165.154.43.92:35184?security=tls&sn
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.37:80?security=none&type=ws&host=edge.validbv3528.ir#🔒 VL-WS-NONE 🇺🇸 US-167.82.0.37:80
 vless://affd5a9a-22fa-11ee-be56-0242ac120002@104.19.4.191:443?security=tls&sni=vpn870.tutorials26858.workers.dev&type=ws&host=vpn870.tutorials26858.workers.dev&path=%2F%3Fed%3D2048%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&fp=edge&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.4.191:443
 vless://f988794c-cdb2-4842-b604-06e65cf6d040@104.21.46.162:8443?security=tls&sni=societshaia7rysv.aminho3ien.ir&type=grpc&serviceName=@iMrV2ray#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.46.162:8443
+vless://442ac940-bbdd-4044-9b2c-e4e53cbe0055@104.24.20.150:80?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.20.150:80
