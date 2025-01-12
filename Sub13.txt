@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.150.152.16:8118#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:8118
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WTJVNU1XWTBOMkl3TURBeFkyRXdNbVF6Tnpka00yUmhORFl5TmpGaU9HWT06T0RSbVpXTmxPV010WVRBMFpTMDBPVFF6TFdFMlkyTXRObUZqWlRnNE5URT0=@42.200.230.176:61051#🔒 SS-TCP-NA 🇭🇰 HK-42.200.230.176:61051
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MEdueXJMeldjUlQ0d1VhVk0wU3Vz@62.133.63.21:65262#🔒 SS-TCP-NA 🇹🇷 TR-62.133.63.21:65262
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:5001#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.56:5001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#🔒 SS-TCP-NA 🇨🇦 CA-79.127.233.170:990
@@ -601,5 +603,3 @@ trojan://SSorg@172.67.204.145:2053?security=tls&type=tcp&sni=ssjj.esslh.filegear
 trojan://bpb-trojan@104.17.159.75:443?security=tls&type=tcp&sni=fcspring.ggff.net#%E6%9C%AA%E7%9F%A5114
 trojan://blue2024@104.20.73.186:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5115
 trojan://blue2024@104.17.68.85:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A5116
-trojan://blue2024@198.41.207.96:443?sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A5117
-trojan://NISHIKUITAN111@104.16.80.174:443?#%E6%9C%AA%E7%9F%A5118
