@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://0792bb58-36ac-451e-a629-e363e53da93b@104.21.18.38:443?security=tls&sni=kafka.eula.cloudns.org&type=ws&host=kafka.eula.cloudns.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.38:443
-vless://e952fc48-1f3d-47b4-b7bf-1149e0b4dbe6@172.66.47.146:8880?security=none&type=httpupgrade&host=www.speedtest.net.soft98.ir.nobitex.com.vigilantecollection.com&path=%2FDaily_Configs%3Fed%3D80#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.66.47.146:8880
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.16.11:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.16.11:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.156.54:443?security=tls&sni=PPaL03.AbDulLAH-MAVerYcK.woRKeRS.DEv&type=ws&host=pPal03.aBDuLlaH-maverYCk.workeRs.deV&path=%2FaU9CfsWoY5YeBGLV%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.54:443
-vless://8ed857e2-5a83-46c5-b649-df57bb1f6ffc@66.81.247.239:8080?security=none&type=ws&host=bia.vmessorg.community&path=%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D8080#🔒 VL-WS-NONE 🇺🇸 US-66.81.247.239:8080
 vless://f558f4db-96e5-4e79-8b57-34e39ba4899b@104.21.32.1:8880?security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws79.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.32.1:8880
 vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@190.93.246.128:443?security=tls&sni=lhxt.xiaomi.win&type=ws&host=lhxt.xiaomi.win&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.128:443
 vless://7711fc80-c163-4f35-80c4-d5e61c69659d@104.16.112.97:80?security=none&type=ws&host=icy-bar-399d-ppal03.pomoyes509.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.112.97:80
@@ -603,3 +598,8 @@ vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?security=tls&sni=w
 vless://1aae9657-c653-495d-e8ad-8ca52916cea8@152.70.49.115:443?security=tls&sni=de.bolagskontaktstockholm.se&type=ws&host=de.bolagskontaktstockholm.se&path=%2Fws#🔒 VL-WS-TLS 🇳🇱 NL-152.70.49.115:443
 vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@104.21.90.210:2053?security=tls&sni=FREEDOM31.Pages.DEV&type=ws&host=FREEDOM31.Pages.DEV&path=%2F&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:2053
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.18.203.232:443?security=tls&sni=bypass-filter.vikzrcqt.workers.dev&type=ws&host=bypass-filter.vikzrcqt.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.203.232:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@94.242.231.22:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇱🇺 LU-94.242.231.22:8443
+vless://25d5ece5-8952-4529-98fa-30b09bacd307@172.67.214.110:2053?security=tls&sni=Ter.Iranasanejesh.org&type=grpc&serviceName=@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.110:2053
+vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:8443?security=tls&sni=vkvd127.mycdn.me&type=tcp&fp=chrome&alpn=h2#🔒 VL-TCP-TLS 🇩🇪 DE-89.187.169.71:8443
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@162.159.153.99:2083?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.99:2083
+vless://e9ff847b-e8ff-4690-bd68-d024c63c381e@172.67.111.53:443?security=tls&sni=r-uHMYL7d2INfl3Pf4.sm-node.com&type=ws&host=cdn-ca.sm-node.com&path=%2Fvless_ws%2Fsmjc%2Findex%3Fed%3D8192&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.111.53:443

@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.59.193:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.59.193:80
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.8.36:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.8.36:80
-vless://994692e6-b15f-4d45-b719-2af5c5d8d3af@140.248.128.31:443?security=tls&sni=default.ssl.fastly.net&type=ws&host=mail.magichamsterdisco.co&path=Tel%3A%40Ahmedhamoomi_Servers%2CTel%3A%40Ahmedhamoomi_Servers%2CTel%3A%40Ahmedhamoomi_Servers%2CTel%3A%40Ahmedhamoomi_Servers%2CTel%3A%40Ahmedhamoomi_Servers%2CTel%3A%40Ahmedhamoomi_Servers%2CTel%3A%40Ahmedhamoomi_Servers%2CTel%3A%40Ahmedhamoomi_Servers&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-140.248.128.31:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.17.215:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.17.215:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.49.114:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.49.114:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@86.38.214.207:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇱🇹 LT-86.38.214.207:443
 vless://546cfb84-120f-43db-89db-5cba033bf9dc@162.159.128.233:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-162.159.128.233:8880
 vless://33e40275-fcaf-4d97-a4e6-095fb97c0968@104.24.197.20:8880?security=none&type=httpupgrade&host=www.speedtest.net.farshegermez.ir.&path=%2FbLididkd%F0%9F%A7%94%3Fed%3D80#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.24.197.20:8880
@@ -603,3 +598,8 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@170.114.46.118:443?security=tls&sni
 vless://7e523f35-dfa8-454c-8ea1-659b1f6921df@85.133.201.87:37831?security=none&sni=speedtest.net&type=tcp&host=anten.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.201.87:37831
 vless://6f4c30e7-823a-47e1-bd32-fa74a26d7fb1@199.232.7.55:443?security=tls&sni=aDoLF-ELENa.coM&type=ws&host=adolf-ELENA.com&path=%2FVLESS?ELENaTheGreatDictator&fp=qq&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.7.55:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.239.201:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.239.201:80
+vless://0792bb58-36ac-451e-a629-e363e53da93b@104.21.18.38:443?security=tls&sni=kafka.eula.cloudns.org&type=ws&host=kafka.eula.cloudns.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.38:443
+vless://e952fc48-1f3d-47b4-b7bf-1149e0b4dbe6@172.66.47.146:8880?security=none&type=httpupgrade&host=www.speedtest.net.soft98.ir.nobitex.com.vigilantecollection.com&path=%2FDaily_Configs%3Fed%3D80#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.66.47.146:8880
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.16.11:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.16.11:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.156.54:443?security=tls&sni=PPaL03.AbDulLAH-MAVerYcK.woRKeRS.DEv&type=ws&host=pPal03.aBDuLlaH-maverYCk.workeRs.deV&path=%2FaU9CfsWoY5YeBGLV%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.54:443
+vless://8ed857e2-5a83-46c5-b649-df57bb1f6ffc@66.81.247.239:8080?security=none&type=ws&host=bia.vmessorg.community&path=%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D8080#🔒 VL-WS-NONE 🇺🇸 US-66.81.247.239:8080
