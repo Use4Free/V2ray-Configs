@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://55520747-311e-4015-83ce-be46e2060ce3@172.67.218.174:443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.174:443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.14:443?security=tls&sni=ka.lii2010.us.kg&type=ws&host=ka.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.14:443
 vless://f85075df-569f-4c46-8c09-baa7a0611cbe@151.101.130.219:80?security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.138.187:80?type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.138.187:80
 vless://7dbe296f-cd63-42a0-b3fb-1a1d95a21de5@195.85.59.161:443?security=tls&sni=fenlan.orangelightyo.us.kg&type=ws&host=fenlan.orangelightyo.us.kg&path=%2F&fp=chrome&alpn=http%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇨🇾 CY-195.85.59.161:443
@@ -603,3 +601,5 @@ vless://6383f662-60fd-4efa-a456-c1a5d0c56e29@151.101.0.223:80?type=ws&host=JOIN.
 vless://f6a036f7-9437-4c90-8320-80200afe84b8@199.232.0.1:80?security=none&type=ws&host=game.baziha0098.ir&path=%2F%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-199.232.0.1:80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@5.10.246.89:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇳🇱 NL-5.10.246.89:8443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@162.159.35.242:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.35.242:443
+vless://40d11375-f419-4617-91b8-e97edf972632@185.146.173.20:443?security=tls&sni=yla.ylks.us.kg&type=ws&host=yla.ylks.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.20:443
+vless://4b9a3393-6e60-4e27-bb11-f48b80f66f03@95.164.114.43:2003?security=tls&sni=JoinBedee-ELiV2RAY.store&type=grpc&serviceName=GRPC&allowInsecure=1#🔒 VL-GRPC-TLS 🇰🇿 KZ-95.164.114.43:2003

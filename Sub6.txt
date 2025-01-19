@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://40d11375-f419-4617-91b8-e97edf972632@185.146.173.20:443?security=tls&sni=yla.ylks.us.kg&type=ws&host=yla.ylks.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.20:443
-vless://4b9a3393-6e60-4e27-bb11-f48b80f66f03@95.164.114.43:2003?security=tls&sni=JoinBedee-ELiV2RAY.store&type=grpc&serviceName=GRPC&allowInsecure=1#🔒 VL-GRPC-TLS 🇰🇿 KZ-95.164.114.43:2003
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.8.164:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.8.164:80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@154.194.12.78:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇸🇬 SG-154.194.12.78:443
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.59.46:2086?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.59.46:2086
@@ -603,3 +601,5 @@ vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@92.243.75.49:2087?security=tls&sni=
 vless://790abba4-0be7-4dcc-b061-94fa4582bd40@104.19.38.99:443?security=tls&sni=ou-exams-identify-folks.trycloudflare.com&type=ws&host=ou-exams-identify-folks.trycloudflare.com&path=%2F790abba4-0be7-4dcc-b061-94fa4582bd40-vless%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.38.99:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.146:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.146:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.190.228:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.190.228:443
+vless://9a916cee-569d-5311-8acf-246cb5aad0d7@81.28.12.12:443?security=tls&sni=gsmvpx.info&type=ws&host=8759879542btc.com&path=%2Fvless&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇳🇱 NL-81.28.12.12:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.85.105:2053?security=tls&sni=v2.yUnCHuN.TOP&type=ws&host=v2.yUnCHuN.TOP&path=%2Fk6f0s3n3dz6ad6rz%2Fynbilnlvdxnlzi5pc2vnyxjvlmnvbq%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.85.105:2053

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://3a6ea2e7-e181-4595-9812-7faccf4955f6@104.17.147.22:8080?security=none&type=httpupgrade&host=2.www.speedtest.net.Mact.iR.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.147.22:8080
-vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.136:443
 vless://a998e417-319e-4c5a-8ad7-a87d96289c52@172.66.44.100:2052?type=ws&host=falling-star-07db.satisfying-mongoose9911.workers.dev&path=%2Fbmhlxeurj0s%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-172.66.44.100:2052
 vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@185.155.72.100:28505?security=none&type=tcp&host=Fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.155.72.100:28505
 vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.17.93.161:443?security=tls&sni=dalinceshi.icu&type=ws&host=dalinceshi.icu&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.93.161:443
@@ -603,3 +601,5 @@ vless://8185cea6-0540-4f23-9182-b608d22dc620@172.67.58.118:2052?security=none&ty
 vless://50ced16f-78dd-5499-acf9-a57fe1895728@172.67.151.34:443?security=tls&sni=free.cconfigv2rayserv.workers.dev&type=ws&host=free.cconfigv2rayserv.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.151.34:443
 vless://894e0e6e-d415-47fd-84f5-418896d7a310@104.21.60.152:443?security=tls&sni=freedom2.sepale8166.workers.dev&type=ws&host=freedom2.sepale8166.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.152:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@160.123.255.169:443?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇿🇦 ZA-160.123.255.169:443
+vless://55520747-311e-4015-83ce-be46e2060ce3@172.67.218.174:443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.174:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.14:443?security=tls&sni=ka.lii2010.us.kg&type=ws&host=ka.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.14:443
