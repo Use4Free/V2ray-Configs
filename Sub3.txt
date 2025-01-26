@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@84.17.58.134:8443?security=tls&sni=mil-it.fromblancwithlove.com&type=tcp&alpn=h2&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇹 IT-84.17.58.134:8443
-vless://76b3cbba-e6ac-485a-9481-336a0415eab9@172.67.157.202:80?security=none&type=ws&host=OlD-disk-EFCd.JojAhoF109.WorKerS.DEv&path=%2FodHGn0T9HGFXsTlN%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.157.202:80
 vless://6383f662-60fd-4efa-a456-c1a5d0c56e29@151.101.64.223:80?type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480#🔒 VL-WS-NA 🇺🇸 US-151.101.64.223:80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.155.24.129:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-54.155.24.129:22222
 vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.121.143:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇬🇧 GB-154.197.121.143:443
@@ -603,3 +601,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.27.0.62:443?security=tls&sni=a.
 vless://e2afc104-fc04-4e33-87a5-c5175a5b4c17@104.21.94.168:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.94.168:8080
 vless://48eccebc-1e36-4c60-b088-55fb793f6688@172.64.35.236:443?security=tls&sni=ngx.ambercc.filegear-sg.me&type=ws&host=ngx.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.236:443
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.65.119:80?sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-167.82.65.119:80
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@77.91.122.176:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-77.91.122.176:2198
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?security=tls&sni=hagh.pages.dev&type=ws&host=hagh.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.163:2083
