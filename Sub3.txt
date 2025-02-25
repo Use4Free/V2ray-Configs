@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d76b2c50-34b4-4ae2-bb56-231569aeb0fc@104.17.217.15:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.217.15:443
+vless://fdb667db-7ba5-4f9c-aa1f-705504706257@104.21.48.1:2095?security=none&type=httpupgrade#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.48.1:2095
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.41.190:2095?security=none&type=ws&host=fuckingcloudflare.20241225.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.41.190:2095
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@159.69.22.135:1001?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg#🔒 VL-WS-TLS 🇩🇪 DE-159.69.22.135:1001
 vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.25.2.60:443?security=tls&sni=nikuw.sspeednetokala.uS.kg&type=ws&host=nikuw.sspeednetokala.uS.kg&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.2.60:443
@@ -601,5 +603,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.194.175:8880?type=grpc#🔒
 vless://2c79b667-b103-4d22-86d0-5ef23f303c06@103.116.7.132:80?sni=japan.freenods-8d6.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇺🇸 US-103.116.7.132:80
 vless://64b3cbba-e6ac-495a-9481-976a0493eab9@172.67.211.70:443?security=tls&sni=esetsEcURiTYliCEnSe.kMlRV.wOrkERs.DEV&type=ws&host=ESeTSECUriTYliCense.kmlRV.wORkErS.dEV&path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.211.70:443
 vless://2d6b217e-89ca-4ab1-9821-24c50c569dd6@188.121.117.161:80?security=none&type=ws&path=%2F%40V2Graphy%2Fgiveaway%2Fws1%3Fed%3D2560#🔒 VL-WS-NONE 🇮🇷 IR-188.121.117.161:80
-vless://89b2d444-7f15-4881-80ed-4aa8057fb97c@172.67.70.123:8880?security=none&type=httpupgrade&host=Ger2.nanowaash-shop.ir#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.70.123:8880
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@43.198.104.113:2087?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-43.198.104.113:2087
