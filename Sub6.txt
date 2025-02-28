@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://V8Ggxghv8Z@104.21.32.1:2096?security=tls&sni=esna.twn24.ir&type=httpupgrade&host=esna.twn24.ir#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.32.1:2096
-trojan://Aimer@206.238.237.118:8443?sni=acepo.ambercc.filegear-sg.me&allowInsecure=1#🔒 TR-TCP-NA 🇸🇬 SG-206.238.237.118:8443
 trojan://Aimer@47.79.37.55:2077?#🔒 TR-TCP-NA 🇯🇵 JP-47.79.37.55:2077
 trojan://Aimer@206.238.237.81:2087?security=tls&sni=agepy.ambercc.filegear-sg.me&type=ws&host=agepy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 TR-WS-TLS 🇸🇬 SG-206.238.237.81:2087
 trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@45.158.22.33:443?security=tls&sni=us2.vpn.ong&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.158.22.33:443
@@ -603,3 +601,5 @@ trojan://Aimer@172.67.68.56:2096?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA
 trojan://telegram-id-privatevpns@13.37.72.176:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.37.72.176:22222
 trojan://7d858e5a-664e-419f-b6a1-c3bceb8ac208@45.146.232.173:10465?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-45.146.232.173:10465
 trojan://3747000103274291200@52.79.40.3:443?sni=epic-bunny.adder289.quest#🔒 TR-TCP-NA 🇰🇷 KR-52.79.40.3:443
+trojan://bpb-trojan@172.67.180.227:443?security=tls&sni=bpb-hd.aaronchin.xyz&type=ws&host=bpb-hd.aaronchin.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.180.227:443
+trojan://Aimer@35.81.207.167:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-35.81.207.167:443
