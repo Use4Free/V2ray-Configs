@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443?security=tls&sni=Pages.dev&type=ws&host=1v-2wk.pages.dev&path=%2FTelegram-Xv2ry2-7%3Fed%3D512#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.16.16:443
+vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.24.196.20:443?security=tls&sni=4sat.shop&type=ws&host=public.4sat.shop&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.196.20:443
+vless://8ea4136b-64fb-43a1-845c-c1a25574e02b@151.101.2.228:80?type=ws&host=joinxvproxybedee.ir&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-151.101.2.228:80
 vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@104.17.147.22:2052?security=none&type=httpupgrade&host=FN.CafeBazarZzZ.IP-DDNS.COM&path=/#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.147.22:2052
 vless://edadc2f8-50b1-4049-9625-6fd5b4cb130a@108.162.195.168:443?security=tls&sni=agedw.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.168:443
 vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.19.223.79:2087?security=tls&sni=radrr.accra-ghashang.org&type=ws&host=radrr.accra-ghashang.org&path=/morano#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.223.79:2087
@@ -600,6 +603,3 @@ vless://95342990-2fa1-4100-a559-c3f5e25f450d@104.21.44.185:443?security=tls&sni=
 vless://4d0466d9-90b0-4f95-aef9-ca1c35b31c43@85.237.211.219:80?security=none&type=ws&path=%2Fvless%2F#🔒 VL-WS-NONE 🇦🇪 AE-85.237.211.219:80
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80?security=none&type=ws&host=bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV&path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.24.112:80
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@185.135.9.80:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.org&type=grpc#🔒 VL-GRPC-TLS 🇩🇪 DE-185.135.9.80:2087
-vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.26.9.63:2083?security=tls&sni=test.bujidao.org&type=ws&host=test.bujidao.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.9.63:2083
-vless://48d34244-8fac-4fa4-b4fe-0931474f183d@104.21.69.44:2087?security=tls&sni=hq1.NEWrEtR432as.inFo&type=ws&host=hq1.NEWrEtR432as.inFo&path=%2F%23Telegram%40V2ray_Alpha#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:2087
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@212.13.236.132:10001?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇸🇮 SI-212.13.236.132:10001
