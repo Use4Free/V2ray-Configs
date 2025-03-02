@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@151.101.194.133:443?security=tls&sni=live.989bull.com&type=ws&host=aft.vc&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.194.133:443
-vless://fed7b870-8d40-4337-b26b-9aca5ac4846f@172.67.71.187:2096?security=tls&sni=hp-duBai.pAGES.dEV&type=ws&host=hp-dubai.pages.dev&path=%2F9HzhcZ4yenwH1d9M%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.187:2096
 vless://70aa6fd6-9d04-4657-9eaa-2946541f6deb@188.114.96.217:80?sni=071ll2532.16965a6a7d.workers.dev&type=ws&path=%2F%3Fed#🔒 VL-WS-NA 🏴‍☠️ NA-188.114.96.217:80
 vless://99764845-248f-49eb-9373-d3d5020d2c29@104.17.147.22:2095?security=none&type=ws&host=www.soft98.ir.www.myket.ir.发出来就被吞.website.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:2095
 vless://fa659470-ca91-43c1-a966-2349531fb6a8@104.19.100.251:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.100.251:443
@@ -603,3 +601,5 @@ vless://5335d16e-7e42-4c9b-93a3-9e83bfd3073d@172.67.168.60:80?security=none&type
 vless://55520747-311e-4015-83ce-be46e2060ce3@104.17.221.248:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2Fuxs.vs2024.us.kg&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.221.248:443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.60.107.252:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇸🇪 SE-13.60.107.252:22222
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.193:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.193:443
+vless://ef5f8625-a997-4e9c-a79c-7b95f565d675@185.16.110.222:2053?security=tls&sni=istap.resources-digikala.com.&type=ws&host=istap.resources-digikala.com.&path=%2F%40amir%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇫🇷 FR-185.16.110.222:2053
+vless://c1d22711-2adf-4ffa-a5d8-439e665bb951@45.131.209.237:80?sni=656654647567245851483768538765962936476541237567854816545176587.11feea65a1d70a.workers.dev&type=ws&path=Telegram@WangCai2/?ed#🔒 VL-WS-NA 🇳🇱 NL-45.131.209.237:80
