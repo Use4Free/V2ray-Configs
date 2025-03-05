@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://6475e370-b6fb-45de-b377-5796ba96e645@172.67.73.213:2053?security=tls&sni=cconfigv2ray.ceren49639.worKErS.DeV&type=ws&host=cconfigv2ray.ceren49639.worKErS.DeV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.213:2053
+vless://af54e689-87b9-4a25-b431-efde3d7249ea@49.12.185.64:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-49.12.185.64:443
 vless://52171f0d-7b05-4494-aebf-d56de3475661@94.159.96.160:2052?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-94.159.96.160:2052
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@88.218.93.231:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-88.218.93.231:2198
 vless://b3314ace-2947-47fd-aff8-11565cf77d5f@104.21.16.1:8443?security=tls&sni=mAHDiseRVeR-B97.PAgEs.dEv&type=ws&host=mahdiserver-b97.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.16.1:8443
@@ -601,5 +603,3 @@ vless://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052?security=none&type=
 vless://a8eb08f2-daea-4aa9-9d6f-1cca1f7be7d0@146.75.94.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=CAA-Family.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-146.75.94.133:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.7.50:80?path=%2Fby-AB_841.[#🔒 VL-TCP-NA 🏴‍☠️ NA-104.21.7.50:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.7.167:80?sni=abaaba.9pcvkb68.workers.dev&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.7.167:80
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@206.238.237.92:2087?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.92:2087
-vless://80055aeb-f441-5fac-9f73-9b25a416e450@95.164.46.154:2052?type=ws&path=/vless%23@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL#🔒 VL-WS-NA 🇮🇹 IT-95.164.46.154:2052

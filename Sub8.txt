@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8091#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8091
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7001#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:7001
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6379
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.38.163:443#🔒 SS-TCP-NA 🇺🇸 US-156.146.38.163:443
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.190.149:8080#🔒 SS-TCP-NA 🇬🇧 GB-172.99.190.149:8080
@@ -601,5 +603,3 @@ hysteria2://3f9b3419-29d5-4fbf-a96c-62c001705a04@saibo-nl.sanguayun.com:443?inse
 hysteria2://444dae72-ea43-4ff8-a77e-c2786a443bbd@hk04hktix126h.whiteemperor.top:443?insecure=1&sni=hk04hktix126h.whiteemperor.top#9%7C%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA...%20%233
 hysteria2://444dae72-ea43-4ff8-a77e-c2786a443bbd@hk06hktix160.whiteemperor.top:443?insecure=1&sni=hk06hktix160.whiteemperor.top#9%7C%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA...%20%234
 hysteria2://444dae72-ea43-4ff8-a77e-c2786a443bbd@hk09hktix101.whiteemperor.top:443?insecure=1&sni=hk09hktix101.whiteemperor.top#9%7C%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA...%20%235
-hysteria2://444dae72-ea43-4ff8-a77e-c2786a443bbd@hk19hktix245.whiteemperor.top:443?insecure=1&sni=hk19hktix245.whiteemperor.top#9%7C%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA...%20%236
-hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?insecure=1&sni=www.bing.com#9%7C%40V2rayNG3%20%233
