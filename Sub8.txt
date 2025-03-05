@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.218:5000#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.218:5000
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:445#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:445
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@93.115.10.213:40019#🔒 SS-TCP-NA 🇹🇷 TR-93.115.10.213:40019
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6379
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTgzNmVkYy1lNzM4LTRlNjMtOTY0ZC1hZDYxZDllM2YyN2I=@45.196.222.10:61006#🔒 SS-TCP-NA 🇭🇰 HK-45.196.222.10:61006
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@80.92.204.106:9020#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9020
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.217:8080
@@ -603,3 +599,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOWE1NGI0ZC1iYjdjLTRkYzUtOGRmMi1hNzJmMGI3YWI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOWE1NGI0ZC1iYjdjLTRkYzUtOGRmMi1hNzJmMGI3YWIyNDk=@free.2apzhfa.xyz:31671#2%7C%F0%9F%87%A7%F0%9F%87%B7%E5%B7%B4%E8%A5%BF%2001%20%7C%201x%20BR
 hysteria2://9f73c619627d6a5d@66.245.192.15:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#9%2C11%7C%E2%9A%A1%EF%B8%8F%20%40vipv2rey%28Hysteria%29%20%231
 hysteria2://KevinZakarian@66.23.198.32:443?insecure=1&sni=www.eliv2ray.net&obfs=salamander&obfs-password=KevinZakarian#9%2C11%7C%40vpnv2rayNGv%20%235
+hysteria2://a278eadd-c35c-403f-a286-7767a74307c1@45.140.169.231:8080?insecure=1&sni=www.eliv2ray.net#9%2C11%7C%40vpnv2rayNGv%20%236
+hysteria2://dongtaiwang.com@51.158.54.46:44550?insecure=1&sni=bing.com#9%2C11%7C%E2%9A%A1%EF%B8%8F%20%40vipv2rey%28Hysteria1%29%20%231
+hysteria2://f6e4b19a3110d19d@66.135.28.59:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#9%2C11%7C%E2%9A%A1%EF%B8%8F%40vipv2rey%20%28Hysteria%29%20%231
+hysteria2://y0qochAspE%2Bu-HLfrip-@45.32.234.211:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=2pU!&Brls!0exuP+!4so#9%2C11%7C%E2%9A%A1%EF%B8%8F%20%40vipv2rey%28Hysteria2%29%20%231
