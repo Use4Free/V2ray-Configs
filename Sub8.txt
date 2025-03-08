@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6697#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:6697
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.108.129.51:989#🔒 SS-TCP-NA 🇮🇪 IE-185.108.129.51:989
 ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@80.92.204.106:9057#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9057
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@80.92.204.106:9020#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9020
@@ -603,3 +602,4 @@ trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNmQxOWNkNi03MzU0LTQ0NTktYjdhMi1hNThlNjJhMjkxZGQ=@free.2apzhfa.xyz:31511#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%E6%9C%AA%E7%9F%A572%2022.6MB%2Fs
 trojan://bpb-trojan@104.26.4.60:443?security=tls&type=ws&sni=zamim340.ggff.net&host=zamim340.ggff.net#%E6%9C%AA%E7%9F%A573
+trojan://telegram-id-privatevpns@54.246.171.200:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A574%2029.8MB%2Fs
