@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.71:7307#US18%202.0MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRaWVkaWhGaWt4bjRrQ1d5Z01YbUZi@77.83.246.74:443#%E6%9C%AA%E7%9F%A534
+trojan://Aimer@162.159.38.103:2083?sni=agepq.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A535
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.165.101:8119#US19%2018.3MB%2Fs
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&type=ws&sni=series-v1.samanehha.co&path=/43xf5zgeApzDAfhOHq&host=series-v1.samanehha.co#%E6%9C%AA%E7%9F%A536
 trojan://0q%2776Evm32qz%40Q%27%28@172.66.44.226:2087?security=tls&type=ws&sni=JOInMahdiserver-11R.PaGES.dEv&host=joinmahdiserver-11r.pages.dev#%E6%9C%AA%E7%9F%A537

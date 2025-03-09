@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://Aimer@92.243.74.3:8443?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-92.243.74.3:8443
+trojan://Aimer@118.45.241.209:50000?sni=agepq.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-118.45.241.209:50000
+trojan://SSorg@77.232.140.7:443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.mehttp/1.1&path=/?ed#🔒 TR-WS-TLS 🇷🇺 RU-77.232.140.7:443
 trojan://bpb-trojan@45.80.110.224:443?sni=bpb.my79801.com#🔒 TR-TCP-NA 🇪🇪 EE-45.80.110.224:443
 trojan://Aimer@141.11.203.168:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇫🇷 FR-141.11.203.168:443
 trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&sni=egcmi.phooeyunfold.com#🔒 TR-TCP-TLS 🇺🇸 US-89.187.181.172:43118
@@ -600,6 +603,3 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@139.64.165.123:8080#🔒 SS-TCP-NA
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9040
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@217.30.10.18:9005#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9005
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.143.66.55:8080#🔒 SS-TCP-NA 🇺🇸 US-38.143.66.55:8080
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.27:8000#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.27:8000
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#🔒 SS-TCP-NA 🇺🇸 US-156.146.38.168:443
-ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@217.30.10.18:9024#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9024
