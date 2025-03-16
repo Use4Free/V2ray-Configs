@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://Mikahyh%40l4fg@104.21.23.215:443?security=tls&sni=1da8C916-rouND-moon-05e0.Soren-CybGu.WORKERS.deV&type=ws&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev&path=%2FtrxWkEaaMxaH1BnOMa%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.23.215:443
+trojan://telegram-id-privatevpns@13.48.246.212:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.246.212:22222
 trojan://fc417d14-f39a-47b7-9e91-ed79825315b3@103.224.182.249:443?security=tls&sni=z6.gozargah.one#🔒 TR-TCP-TLS 🇺🇸 US-103.224.182.249:443
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.21:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-74.63.241.21:443
 trojan://Aimer@108.165.152.55:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-108.165.152.55:2096
@@ -601,5 +603,3 @@ trojan://blue2024@162.159.22.138:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍
 trojan://SSorg@199.34.228.71:8443?sni=ssjj.esslh.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-199.34.228.71:8443
 trojan://Aimer@104.19.60.193:2083?sni=agepy.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.60.193:2083
 trojan://95b@65.75.194.43:10511?security=tls&sni=2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com#🔒 TR-TCP-TLS 🇺🇸 US-65.75.194.43:10511
-trojan://3763495982449565696@95.85.93.172:443?security=tls&sni=faithful-goshawk.goat627.mom&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-95.85.93.172:443
-trojan://Aimer@14.32.9.120:50000?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-14.32.9.120:50000
