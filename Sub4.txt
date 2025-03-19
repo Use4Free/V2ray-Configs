@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://54d4ea29-41d8-4bba-bf33-db619ff4fa43@91.193.59.187:8880?security=none&type=httpupgrade&host=sNaPp.MaStErSrV.ir.#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-91.193.59.187:8880
-vless://c6a8fa8a-9fa0-4866-a786-5d11199d0c1d@146.75.82.133:80?security=none&type=xhttp&host=Jomshamirsiaii.global.ssl.fastly.net&path=/#🔒 VL-XHTTP-NONE 🇺🇸 US-146.75.82.133:80
-vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.37:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%20re.vs2024.us.kg&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.37:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.163:80
 vless://0d8727b3-696e-40ce-9ce3-4427b83e104d@167.82.64.102:443?security=tls&sni=live.989bull.com&type=ws&host=wewouldworkcom.ir&path=%2Fws%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-167.82.64.102:443
 vless://bb138206-97f4-4c6b-bba6-3e8685d9d803@104.21.80.1:2096?security=tls&sni=mahDISERVeR-Uw8.paGes.dEV&type=ws&host=mahdiserver-uw8.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.1:2096
@@ -603,3 +600,6 @@ vless://5d245df1-c570-4b84-9642-faa4d0e3d3b7@91.107.149.69:8081?security=none&ty
 vless://386e8831-29d0-4106-84cd-9c265e85edfe@35.176.128.241:38159?security=tls&sni=a.vahidvpn.com.tr&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇬🇧 GB-35.176.128.241:38159
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.125:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.125:80
 vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@104.18.11.136:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.11.136:443
+vless://78802591-aa5f-47ea-8184-9e30368d9b50@185.146.173.38:2052?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.onlinesrvpro.site.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.38:2052
+vless://c3215f6b-bd47-4123-989d-ee59baf7c1f2@104.16.61.8:443?security=tls&sni=hello-world-holy-tooth-3ed5.gjfnoqp.workers.dev&type=ws&host=hello-world-holy-tooth-3ed5.gjfnoqp.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.61.8:443
+vless://69167084-2096-479c-a049-b4fb84121ba2@104.21.48.1:2052?type=httpupgrade&host=1a2ffe0f1abdcc1d.1a2ffe0f1abdcc1dknock.hihi.1a2ffe0f1abdcc1d.UK-XiRiX.dAnEsHkAdEoNlInE.Ir.&path=%2F%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.21.48.1:2052
