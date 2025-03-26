@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.148.184:80
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.55:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.55:80
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.137:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.137:80
+vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@172.67.167.186:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.167.186:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.210:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.210:80
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@188.114.98.131:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.131:443
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.131.105.11:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-94.131.105.11:2198
@@ -599,7 +603,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.120:80?type=ws&host=301.po
 vless://fc1e916d-c68a-4934-bdba-538cee120651@172.66.45.34:2053?security=tls&sni=mAhdiseRVEr-K8l.PAgEs.deV&type=ws&host=mahdiserver-k8l.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.34:2053
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@104.21.6.44:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.6.44:443
 vless://de38d5a8-df47-4c33-b25f-b276068aa666@172.67.196.246:2083?security=tls&sni=brand.tickyou.ir&type=ws&host=brand.tickyou.ir&path=/ed%3D4096&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.196.246:2083
-vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.105:80?type=ws&host=teleirani.ir&path=/?ed%3D2048#🔒 VL-WS-NA 🇺🇸 US-167.82.1.105:80
-vless://81191cda-0982-4cbd-8d60-2ef076e08d17@188.114.97.6:443?security=tls&sni=nice-try-worker-inc.weredex932.workers.dev&type=ws&host=nice-try-worker-inc.weredex932.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.6:443
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.176:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇾 CY-171.22.124.176:2198
-vless://16d7a04d-e6f4-479f-8914-80d3817317f9@172.67.175.106:443?security=tls&sni=ed19-dc7.pages.dev&type=ws&host=ed19-dc7.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.175.106:443
