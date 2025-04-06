@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@188.114.97.87:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.87:443
 vless://e05eab75-115a-450d-a1ea-f40e56e72d1b@185.143.233.120:80?security=none&type=ws&host=getasa.ir&path=%2Ftelegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic.zip#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.120:80
 vless://a84e1d34-ffd9-5ede-a7e1-f5c4c4f51575@104.18.26.50:80?security=none&type=ws&host=www.digikala.com.joinTelegram.mosiv2.sk1.vless.Sitespeedtest.net.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.26.50:80
 vless://8c129b7d-c87f-42d7-bdac-55dfbfe88534@104.21.22.88:2082?security=none&type=ws&host=maHdi-hEctorR.VISOWe1371.wOrkERs.deV&path=%2FTubTk4YF94GzQjJH%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.22.88:2082
@@ -603,3 +602,4 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.78:80?security=none&typ
 vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.9.38:2053?security=tls&sni=worker-fancy-base-7d08.yajici1215.workers.DEV&type=ws&host=worker-fancy-base-7d08.yajici1215.workers.DEV&path=%2FTABRIZ.NET%3A%40AZARBAYJAB1%2CTABRIZ.NET%3A%40AZARBAYJAB1%2CTABRIZ.NET%3A%40AZARBAYJAB1%2CTABRIZ.NET%3A%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.9.38:2053
 vless://60cb6fb3-ba54-471f-a9f7-ec0565c66520@172.67.163.103:8880?security=none&type=httpupgrade&host=Euueeu.flatocnx.com&path=%2FVpnmizban---------Vpnmizban---------Vpnmizban-------Vpnmizban#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.163.103:8880
 vless://ba5a4409-159a-5e30-8806-6d97df5d85f3@45.141.58.22:8880?type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NA 🇦🇹 AT-45.141.58.22:8880
+vless://5ad67960-683c-41e2-9f9c-52011510a167@37.27.211.10:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.211.10:1524

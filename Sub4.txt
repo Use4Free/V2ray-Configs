@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.214.239.78:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-52.214.239.78:22222
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@76.223.54.146:443?security=tls&sni=9pgcn69xy7i539t1wtli.khodavakili.buzz&type=ws&host=dl.khodavakili.buzz&path=%2Fkos_madar_publisher#🔒 VL-WS-TLS 🇺🇸 US-76.223.54.146:443
 vless://82598762-334a-4d4b-9a97-fec2277a1e98@172.66.47.119:2053?security=tls&sni=maHDiSErVER-5oY.pAgES.DEV&type=ws&host=mahdiserver-5oy.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.119:2053
 vless://7342c30d-7b40-4302-b083-ea9b0c4c3baa@185.143.235.1:8080?security=none&type=ws&host=dash.iranpoems.ir&path=/telegram-shrakpublic.rar#🔒 VL-WS-NONE 🇮🇷 IR-185.143.235.1:8080
@@ -603,3 +602,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.42:8880?security=none&type=
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.99:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒 VL-WS-NA 🇺🇸 US-160.79.105.99:443
 vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.5.24:80?sni=yuming.kkllllkkkk95.workers.dev&type=ws&host=yuming.kkllllkkkk95.workers.dev&path=Telegram%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.24:80
 vless://fe1de076-c9a8-4e62-b9d1-e834cdc7f25f@79.127.70.68:5785?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.70.68:5785
+vless://5803bc0e-f6b0-4fdb-9728-da5e470eddbe@172.67.73.163:443?security=tls&sni=85858569.xyz&type=ws&host=hj-de.85858569.xyz&path=%2Fhajmi%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.163:443
