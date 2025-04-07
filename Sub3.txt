@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://716e8c06-40e6-41ae-82ca-db79b41112c2@104.26.12.173:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.173:443
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.101:80?type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.101:80
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.236:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.236:80
-vless://259ce089-06c5-4b40-bda2-6510bbca3bc4@190.93.247.56:2087?security=tls&sni=WWW.adabefarsi.eu.&type=ws&host=WWW.adabefarsi.eu.&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.56:2087
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.4.157:2083?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.157:2083
 vless://ec0405d5-768e-4e69-ade0-e46f5bb149b4@57.129.43.114:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇩🇪 DE-57.129.43.114:8880
 vless://4aaa5edf-da3c-5c87-adb6-74431bf98ba2@104.17.147.214:2052?security=none&type=ws&host=sPeedtest2.sbs.tr1.vless.sitespeedtest.net&path=%2Fvless%23%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.214:2052
 vless://dc00f1f8-05b2-4bc0-b851-d4dfe5089329@173.245.49.116:80?security=none&type=ws&host=workerr.aasihmin.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.49.116:80
@@ -603,3 +598,8 @@ vless://72724f3f-004f-45c7-ac9f-2dca93468dce@188.114.97.3:2053?security=tls&sni=
 vless://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:2096?security=tls&sni=TABnak.FArsONlInE24.ir&type=httpupgrade&host=tabnak.farsonline24.ir&path=%2F7uihmWjuk2GFctSVNRJ4qDc&fp=chrome&alpn=h2#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.175.40:2096
 vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.118:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#🔒 VL-WS-NA 🇷🇺 RU-45.67.215.118:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.33:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.33:80
+vless://d153bc6e-da80-4a2d-8280-cfa668bc283f@104.17.147.22:2096?security=tls&sni=mahdiiii.filmekade.ru&type=ws&host=mahdiiii.filmekade.ru&path=%2F%2Ftelegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.147.22:2096
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.16.45.12:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.45.12:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.187:443?security=tls&sni=cb.dong2025.cfd&type=ws&host=cb.dong2025.cfd&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.187:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.226:80?type=ws&host=301.pooriam.ir&path=Telegram%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.226:80
+vless://a07827b5-4b27-4910-8333-f78949562fc9@138.128.225.100:443?security=tls&sni=design-mobo.ir&type=ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇦🇪 AE-138.128.225.100:443
