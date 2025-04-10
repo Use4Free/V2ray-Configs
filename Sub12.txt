@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@zhee01.dynu.net:16704?allowInsecure=1&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#1%2C14%7CCN_speednode_0013
 trojan://telegram-id-privatevpns@18.132.220.128:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#1%7C%F0%9F%87%AC%F0%9F%87%A71%20%7C%20%205.4MB/s
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.22.116.154:8880?sni=&type=ws&host=redfree8.pooriashop.ir&path=/Telegram@V2ray_Alphaflow=-udp443&fp=#1%7C%F0%9F%87%AF%F0%9F%87%B51%20%7C%20%205.8MB/s
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMXzwn4ev8J+HtTIgfCAgMi4wTUIvcyIsICJhZGQiOiAiNjljNTg0ZjItc3VpZjQwLXRlZTYxMi0ycjgyLmNtNS5wNXB2LmNvbSIsICJwb3J0IjogMTcyMzMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIwMzU3M2Y0Ni1lOTQ0LTExZWItYThiZi1mMjNjOTFjZmJiYzkifQ==
